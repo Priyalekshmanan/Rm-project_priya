@@ -4432,19 +4432,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Priya Dharsini\\.nuget\\packages\\": {}
+    "C:\\Users\\pmuthamm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Priya Dharsini\\Desktop\\my_proj\\Nexu SMS\\Nexu SMS.csproj",
+      "projectUniqueName": "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm-project_priya\\Nexu SMS\\Nexu SMS.csproj",
       "projectName": "Nexu SMS",
-      "projectPath": "C:\\Users\\Priya Dharsini\\Desktop\\my_proj\\Nexu SMS\\Nexu SMS.csproj",
-      "packagesPath": "C:\\Users\\Priya Dharsini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Priya Dharsini\\Desktop\\my_proj\\Nexu SMS\\obj\\",
+      "projectPath": "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm-project_priya\\Nexu SMS\\Nexu SMS.csproj",
+      "packagesPath": "C:\\Users\\pmuthamm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm-project_priya\\Nexu SMS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Priya Dharsini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pmuthamm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4504,7 +4504,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

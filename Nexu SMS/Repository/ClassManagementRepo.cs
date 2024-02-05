@@ -20,18 +20,14 @@ namespace Nexu_SMS.Repository
                     ClassModel model = contextClass.classModels.FirstOrDefault(c => c.ClassId == id);
                     if (model != null)
                     {
-                        model.Teacher = teacher;
+                        model.Teacherid = teacher;
                         contextClass.SaveChanges();
                     }
                 }
             }
         }
 
-        public void CreateClass(ClassModel classModel)
-        {
-            contextClass.classModels.Add(classModel);
-            contextClass.SaveChanges();
-        }
+ 
     
 
         public void DeleteClass(int id)
@@ -55,16 +51,7 @@ namespace Nexu_SMS.Repository
             return contextClass.classModels.ToList();
         }
 
-        public void RemoveStudent(int id, string student)
-        {
-            {
-                ClassModel model = contextClass.classModels.FirstOrDefault(c => c.ClassId == id);
-                if (model != null)
-                {
-                    model.Student.Remove(student);
-                }
-            }
-        }
+ 
 
         public void UpdateClass(ClassModel updatedModel)
         {

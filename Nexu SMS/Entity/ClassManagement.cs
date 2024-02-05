@@ -15,7 +15,10 @@ namespace Nexu_SMS.Entity
         [Column("Schedule")]
         public string Schedule { get; set; }
 
-        public string teacherid { get; set; }
+       /* //Navigation property
+        [ForeignKey("teacherid")]
+*/
+        public string Teacherid { get; set; }
 
         public List<string> Student { get; set; } = new List<string>();
     }

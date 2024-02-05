@@ -56,17 +56,37 @@ namespace Nexu_SMS.Repository
 
         public void Update(Users entity)
         {
-            string tempUname = (from s in _context.students
-                                join u in _context.users on s.id equals u.userId
-                                select s.fName).SingleOrDefault();
             if (entity.role == "student")
             {
+                string tempUname = (from s in _context.students
+                                join u in _context.users on s.id equals u.userId
+                                select s.fName).SingleOrDefault();
+           
                 entity.userName = "snex" + tempUname;
             }
             else if (entity.role == "teacher")
             {
+                string tempUname = (from t in _context.teachers
+                                    join u in _context.users on t.teacherId equals u.userId
+                                    where t.teacherId==u.userId
+                                 
+                            
+                                    select t.teacherFirstName).SingleOrDefault();
                 entity.userName = "tnex" + tempUname;
             }
+            /*List<StudentMarks> studentMarks = (from s in _context.Students
+                                               join m in _context.Marks
+                                               on s.Id equals m.StudentId
+                                               where s.Id == id
+                                               select new StudentMarks()
+                                               {
+                                                   Id = s.Id,
+                                                   Name = s.Name,
+                                                   Std = s.Std,
+                                                   Section = s.Section,
+                                                   TotalMarks = m.TotalMarks,
+                                                   Exam = m.Exam
+                                               }).ToList();*/
             _context.users.Update(entity);
             _context.SaveChanges();
         }
