@@ -13,7 +13,7 @@ namespace Nexu_SMS.Repository
         }
     
 
-        public void AssignTeacher(int id, string teacher)
+        public void AssignTeacher(string id, string teacher)
         {
             {
                 {
@@ -30,7 +30,7 @@ namespace Nexu_SMS.Repository
  
     
 
-        public void DeleteClass(int id)
+        public void DeleteClass(string id)
         {
             {
                 ClassModel model = contextClass.classModels.FirstOrDefault(c => c.ClassId == id);
@@ -41,7 +41,7 @@ namespace Nexu_SMS.Repository
             }
         }
 
-        public ClassModel GetClassById(int id)
+        public ClassModel GetClassById(string id)
         {
             return contextClass.classModels.FirstOrDefault(c => c.ClassId == id);
         }

@@ -1,11 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Nexu_SMS.Entity;
-using Nexu_SMS.Migrations;
+
 using System.Linq;
 
 namespace Nexu_SMS.Repository
 {
-    public class ExamSchRepo : IExamSchRepo
+    public class ExamSchRepo : IRepositoty<Exam>
     {
         private readonly ContextClass _context;
 
@@ -14,35 +14,32 @@ namespace Nexu_SMS.Repository
             _context = context;
         }
 
-        public void Add(ExamSchdule examSchdule)
+         public void Add(Exam entity)
         {
-            _context.Add(examSchdule);
+            _context.Add(entity);
             _context.SaveChanges();
         }
 
-        public List<ExamSchdule> GetAll()
+        public void Delete(string id)
         {
-            return _context.exams.ToList();
+            Exam exam = _context.exams.Find(id);
+            _context.exams.Remove(exam);
+            _context.SaveChanges();
         }
 
-        public List<ExamSchdule> GetByDate(DateTime date)
-        {
-            return _context.exams.Where(x => x.Exam_date == date).ToList();
-        }
-
-        public ExamSchdule GetById(string id)
+         public Exam Get(string id)
         {
             return _context.exams.Find(id);
         }
 
-        public ExamSchdule GetByName(string Exam_name)
+        public List<Exam> GetAll()
         {
-            return _context.exams.Find(Exam_name);
+            return _context.exams.ToList();
         }
 
-        public void Update(ExamSchdule examSchdule)
+        public void Update(Exam entity)
         {
-            _context.Update(examSchdule);
+            _context.Update(entity);
             _context.SaveChanges();
         }
     }

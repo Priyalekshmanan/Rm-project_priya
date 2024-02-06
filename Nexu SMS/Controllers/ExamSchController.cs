@@ -15,10 +15,35 @@ namespace Nexu_SMS.Controllers
         {
             this._examSchRepo = _examSchRepo;
         }
-        [HttpPost("AddExam")]
-        public IActionResult Add(ExamSchdule examSchdule)
+        [HttpPost]
+        public IActionResult Add([FromBody] Exam exam)
         {
 
+            _examSchRepo.Add(exam);
+            return Ok(exam);
         }
+        [HttpGet("getAllExam")]
+        public IActionResult Get()
+        {
+            return Ok(_examSchRepo.GetAll());
+        }
+        [HttpPut("Update")]
+        public IActionResult Update(Exam exam)
+        {
+            _examSchRepo.Update(exam);
+            return Ok(exam);
+        }
+        [HttpDelete("Delete")]
+        public IActionResult Delete(string id)
+        {
+            _examSchRepo.Delete(id);
+            return Ok("Deleted");
+        }
+        [HttpGet("GetStudentById")]
+        public IActionResult GetStudentById(string id)
+        {
+            return Ok(_examSchRepo.Get(id));
+        }
+
     }
 }

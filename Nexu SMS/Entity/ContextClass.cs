@@ -17,7 +17,10 @@ namespace Nexu_SMS.Entity
 
         public DbSet<ClassModel> classModels { get; set; }
         public DbSet<Teacher> teachers { get; set; }
-        public DbSet<ExamSchdule> exams { get; set; }
+        public DbSet<Exam> exams { get; set; }
+        public DbSet<Subject> sub { get; set; }
+        public DbSet<Result> results { get; set; }
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

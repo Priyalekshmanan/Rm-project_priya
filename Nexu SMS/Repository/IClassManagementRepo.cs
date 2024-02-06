@@ -5,12 +5,12 @@ namespace Nexu_SMS.Repository
     public interface IClassManagementRepo<T> where T : class
     {
         List<T> GetClasses();
-        T GetClassById(int id);
+        T GetClassById(string id);
   
-        void AssignTeacher(int id, string teacher);
+        void AssignTeacher(string id, string teacher);
    
         void UpdateClass(T updatedModel);
    
-        void DeleteClass(int id);
+        void DeleteClass(string id);
     }
 }

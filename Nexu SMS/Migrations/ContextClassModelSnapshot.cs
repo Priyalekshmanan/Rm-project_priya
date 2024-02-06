@@ -51,6 +51,63 @@ namespace Nexu_SMS.Migrations
                     b.ToTable("classModels");
                 });
 
+            modelBuilder.Entity("Nexu_SMS.Entity.Exam", b =>
+                {
+                    b.Property<int>("exam_Id")
+                        .HasColumnType("int");
+
+                    b.Property<string>("class_Id")
+                        .IsRequired()
+                        .HasColumnType("varchar(30)");
+
+                    b.Property<DateTime>("date")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("examTime")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("exam_Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("sub_id")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("exam_Id");
+
+                    b.HasIndex("class_Id");
+
+                    b.HasIndex("sub_id");
+
+                    b.ToTable("exams");
+                });
+
+            modelBuilder.Entity("Nexu_SMS.Entity.Result", b =>
+                {
+                    b.Property<int>("Res_Id")
+                        .HasColumnType("int");
+
+                    b.Property<int>("exam_Id")
+                        .HasColumnType("int");
+
+                    b.Property<float>("marks")
+                        .HasColumnType("real");
+
+                    b.Property<string>("stu_id")
+                        .IsRequired()
+                        .HasColumnType("varchar(30)");
+
+                    b.HasKey("Res_Id");
+
+                    b.HasIndex("exam_Id");
+
+                    b.HasIndex("stu_id");
+
+                    b.ToTable("results");
+                });
+
             modelBuilder.Entity("Nexu_SMS.Entity.Student", b =>
                 {
                     b.Property<string>("id")
@@ -73,6 +130,20 @@ namespace Nexu_SMS.Migrations
                     b.HasKey("id");
 
                     b.ToTable("students");
+                });
+
+            modelBuilder.Entity("Nexu_SMS.Entity.Subject", b =>
+                {
+                    b.Property<string>("sub_Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("sub_Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("sub_Id");
+
+                    b.ToTable("sub");
                 });
 
             modelBuilder.Entity("Nexu_SMS.Entity.Teacher", b =>
@@ -162,6 +233,44 @@ namespace Nexu_SMS.Migrations
                     b.HasKey("admissionNo");
 
                     b.ToTable("AdmissionNoTable");
+                });
+
+            modelBuilder.Entity("Nexu_SMS.Entity.Exam", b =>
+                {
+                    b.HasOne("Nexu_SMS.Entity.ClassModel", "classModels")
+                        .WithMany()
+                        .HasForeignKey("class_Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Nexu_SMS.Entity.Subject", "sub")
+                        .WithMany()
+                        .HasForeignKey("sub_id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("classModels");
+
+                    b.Navigation("sub");
+                });
+
+            modelBuilder.Entity("Nexu_SMS.Entity.Result", b =>
+                {
+                    b.HasOne("Nexu_SMS.Entity.Exam", "exam")
+                        .WithMany()
+                        .HasForeignKey("exam_Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Nexu_SMS.Entity.Student", "student")
+                        .WithMany()
+                        .HasForeignKey("stu_id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("exam");
+
+                    b.Navigation("student");
                 });
 #pragma warning restore 612, 618
         }
