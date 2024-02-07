@@ -12,8 +12,8 @@ using Nexu_SMS.Entity;
 namespace Nexu_SMS.Migrations
 {
     [DbContext(typeof(ContextClass))]
-    [Migration("20240206121702_init")]
-    partial class init
+    [Migration("20240207051248_initial1")]
+    partial class initial1
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -25,7 +25,7 @@ namespace Nexu_SMS.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Nexu_SMS.Entity.ClassModel", b =>
+            modelBuilder.Entity("Nexu_SMS.Entity.ClassManagement", b =>
                 {
                     b.Property<string>("ClassId")
                         .HasMaxLength(30)
@@ -36,79 +36,100 @@ namespace Nexu_SMS.Migrations
                         .HasColumnType("nvarchar(max)")
                         .HasColumnName("Class Name");
 
-                    b.Property<string>("Schedule")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)")
-                        .HasColumnName("Schedule");
-
-                    b.Property<string>("Student")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("Teacherid")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Teacher ID");
 
                     b.HasKey("ClassId");
 
-                    b.ToTable("classModels");
+                    b.ToTable("Class_Table");
                 });
 
             modelBuilder.Entity("Nexu_SMS.Entity.Exam", b =>
                 {
-                    b.Property<int>("exam_Id")
-                        .HasColumnType("int");
+                    b.Property<string>("examId")
+                        .HasColumnType("nvarchar(450)")
+                        .HasColumnName("Exam ID");
 
-                    b.Property<string>("class_Id")
+                    b.Property<string>("classId")
                         .IsRequired()
-                        .HasColumnType("varchar(30)");
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Class ID");
 
                     b.Property<DateTime>("date")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("Exam Date");
+
+                    b.Property<string>("examName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Exam Name");
 
                     b.Property<string>("examTime")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Exam Time");
 
-                    b.Property<string>("exam_Name")
+                    b.Property<string>("subId")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Subject ID");
 
-                    b.Property<string>("sub_id")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
-
-                    b.HasKey("exam_Id");
-
-                    b.HasIndex("class_Id");
-
-                    b.HasIndex("sub_id");
+                    b.HasKey("examId");
 
                     b.ToTable("exams");
                 });
 
             modelBuilder.Entity("Nexu_SMS.Entity.Result", b =>
                 {
-                    b.Property<int>("Res_Id")
-                        .HasColumnType("int");
+                    b.Property<string>("ResultId")
+                        .HasColumnType("nvarchar(450)")
+                        .HasColumnName("Result ID");
 
-                    b.Property<int>("exam_Id")
-                        .HasColumnType("int");
+                    b.Property<string>("examId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Exam ID");
 
                     b.Property<float>("marks")
-                        .HasColumnType("real");
+                        .HasColumnType("real")
+                        .HasColumnName("Marks");
 
-                    b.Property<string>("stu_id")
+                    b.Property<string>("studentId")
                         .IsRequired()
-                        .HasColumnType("varchar(30)");
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Student ID");
 
-                    b.HasKey("Res_Id");
+                    b.Property<string>("subjectId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Subject ID");
 
-                    b.HasIndex("exam_Id");
-
-                    b.HasIndex("stu_id");
+                    b.HasKey("ResultId");
 
                     b.ToTable("results");
+                });
+
+            modelBuilder.Entity("Nexu_SMS.Entity.SAttendance", b =>
+                {
+                    b.Property<Guid>("attendanceId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("date")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("status")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("studentId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("attendanceId");
+
+                    b.ToTable("Student_Attendance_Table");
                 });
 
             modelBuilder.Entity("Nexu_SMS.Entity.Student", b =>
@@ -117,18 +138,43 @@ namespace Nexu_SMS.Migrations
                         .HasMaxLength(30)
                         .HasColumnType("varchar");
 
+                    b.Property<int>("clss")
+                        .HasColumnType("int")
+                        .HasColumnName("Class");
+
                     b.Property<DateTime>("dob")
                         .HasColumnType("datetime2");
+
+                    b.Property<string>("eMail")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("E-mail");
 
                     b.Property<string>("fName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)")
                         .HasColumnName("First Name");
 
+                    b.Property<string>("gender")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Gender");
+
                     b.Property<string>("lName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)")
                         .HasColumnName("Last Name");
+
+                    b.Property<string>("number")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Mobile No");
+
+                    b.Property<string>("section")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("varchar")
+                        .HasColumnName("Section");
 
                     b.HasKey("id");
 
@@ -137,16 +183,39 @@ namespace Nexu_SMS.Migrations
 
             modelBuilder.Entity("Nexu_SMS.Entity.Subject", b =>
                 {
-                    b.Property<string>("sub_Id")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<string>("subId")
+                        .HasColumnType("nvarchar(450)")
+                        .HasColumnName("Subject Id");
 
-                    b.Property<string>("sub_Name")
+                    b.Property<string>("subName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Subject Name");
+
+                    b.HasKey("subId");
+
+                    b.ToTable("subjects");
+                });
+
+            modelBuilder.Entity("Nexu_SMS.Entity.TAttendance", b =>
+                {
+                    b.Property<Guid>("attendanceId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("date")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("status")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("teacherId")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("sub_Id");
+                    b.HasKey("attendanceId");
 
-                    b.ToTable("sub");
+                    b.ToTable("Teacher_Attendance_Table");
                 });
 
             modelBuilder.Entity("Nexu_SMS.Entity.Teacher", b =>
@@ -236,44 +305,6 @@ namespace Nexu_SMS.Migrations
                     b.HasKey("admissionNo");
 
                     b.ToTable("AdmissionNoTable");
-                });
-
-            modelBuilder.Entity("Nexu_SMS.Entity.Exam", b =>
-                {
-                    b.HasOne("Nexu_SMS.Entity.ClassModel", "classModels")
-                        .WithMany()
-                        .HasForeignKey("class_Id")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("Nexu_SMS.Entity.Subject", "sub")
-                        .WithMany()
-                        .HasForeignKey("sub_id")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("classModels");
-
-                    b.Navigation("sub");
-                });
-
-            modelBuilder.Entity("Nexu_SMS.Entity.Result", b =>
-                {
-                    b.HasOne("Nexu_SMS.Entity.Exam", "exam")
-                        .WithMany()
-                        .HasForeignKey("exam_Id")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("Nexu_SMS.Entity.Student", "student")
-                        .WithMany()
-                        .HasForeignKey("stu_id")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("exam");
-
-                    b.Navigation("student");
                 });
 #pragma warning restore 612, 618
         }

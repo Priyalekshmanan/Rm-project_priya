@@ -12,28 +12,45 @@ namespace Nexu_SMS.Repository
             _context = context;
         }
 
-        
+
 
         public void Add(Users entity)
         {
             string tempPass = "Password@123";
-            /*string tempUname= (from s in _context.students
-                               join u in _context.users on s.id equals u.userId
-                               select s.fName).SingleOrDefault();*/
-            string tempUname=(from s in _context.students
-                            where s.id==entity.userId
-                            select s.fName).FirstOrDefault();
-            entity.password = tempPass;
-            if(entity.role == "student")
+            /*string tempSUname = (from s in _context.students
+                                 join u in _context.users on s.id equals u.userId
+                                 select s.fName).SingleOrDefault();*/
+
+
+            /*string tempTUname= (from t in _context.teachers
+                                join u in _context.users on t.teacherId equals u.userId
+                                where t.teacherId == u.userId
+                                select t.teacherFirstName).SingleOrDefault();
+*/
+            string tempSUname = (from s in _context.students
+                                 where s.id == entity.userId
+                                 select s.fName).SingleOrDefault();
+            string tempTUname = (from t in _context.teachers
+                                 where t.teacherId == entity.userId
+                                 select t.teacherFirstName).SingleOrDefault();
+            if (entity.role == "student")
             {
-                entity.userName = "snex" + tempUname;
+                entity.userName = "snex" + tempSUname;
+                entity.password = tempPass;
+                _context.users.Add(entity);
+                _context.SaveChanges();
+
             }
-            else if (entity.role == "teacher")
+            if (entity.role == "teacher")
             {
-                entity.userName = "tnex" + tempUname;
+
+                entity.userName = "tnex" + tempTUname;
+                entity.password = tempPass;
+                _context.users.Add(entity);
+                _context.SaveChanges();
+
+
             }
-            _context.users.Add(entity);
-            _context.SaveChanges();
         }
 
         public void Delete(string id)
@@ -56,39 +73,34 @@ namespace Nexu_SMS.Repository
 
         public void Update(Users entity)
         {
+            string tempSUname = (from s in _context.students
+                                 join u in _context.users on s.id equals u.userId
+                                 select s.fName).SingleOrDefault();
+
+            /*string tempTUname= (from t in _context.teachers
+                                join u in _context.users on t.teacherId equals u.userId
+                                where t.teacherId == u.userId
+                                select t.teacherFirstName).SingleOrDefault();
+*/
+            string tempTUname = (from t in _context.teachers
+                                 where t.teacherId == entity.userId
+                                 select t.teacherFirstName).SingleOrDefault();
             if (entity.role == "student")
             {
-                string tempUname = (from s in _context.students
-                                join u in _context.users on s.id equals u.userId
-                                select s.fName).SingleOrDefault();
-           
-                entity.userName = "snex" + tempUname;
+
+                entity.userName = "snex" + tempSUname;
+                _context.users.Update(entity);
+                _context.SaveChanges();
+
             }
-            else if (entity.role == "teacher")
+            if (entity.role == "teacher")
             {
-                string tempUname = (from t in _context.teachers
-                                    join u in _context.users on t.teacherId equals u.userId
-                                    where t.teacherId==u.userId
-                                 
-                            
-                                    select t.teacherFirstName).SingleOrDefault();
-                entity.userName = "tnex" + tempUname;
+                entity.userName = "tnex" + tempTUname;
+                _context.users.Update(entity);
+                _context.SaveChanges();
+
+
             }
-            /*List<StudentMarks> studentMarks = (from s in _context.Students
-                                               join m in _context.Marks
-                                               on s.Id equals m.StudentId
-                                               where s.Id == id
-                                               select new StudentMarks()
-                                               {
-                                                   Id = s.Id,
-                                                   Name = s.Name,
-                                                   Std = s.Std,
-                                                   Section = s.Section,
-                                                   TotalMarks = m.TotalMarks,
-                                                   Exam = m.Exam
-                                               }).ToList();*/
-            _context.users.Update(entity);
-            _context.SaveChanges();
         }
     }
 }

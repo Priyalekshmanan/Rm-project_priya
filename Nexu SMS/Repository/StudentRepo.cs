@@ -13,7 +13,9 @@ namespace Nexu_SMS.Repository
 
         public void Add(Student student)
         {
+               
            contextClass.students.Add(student);
+
             contextClass.SaveChanges();
         }
 
@@ -26,7 +28,7 @@ namespace Nexu_SMS.Repository
 
         public Student Get(string id)
         {
-            Student student = contextClass.students.Where(x=>x.Equals(id)).SingleOrDefault();
+            Student student = contextClass.students.Find(id);
             return student;
         }
 
@@ -52,6 +54,21 @@ namespace Nexu_SMS.Repository
             }
             else
                 return "id invalid";
+        }
+
+        public List<Student> GetStdByClass(int clss)
+        {
+            return contextClass.students.Where(x => x.clss == clss).ToList();
+        }
+
+        public List<Student> GetStdBySection(string sec)
+        {
+            return contextClass.students.Where(x => x.section == sec).ToList();
+        }
+
+        public List<Student> GetStdBySectionNclass(string sec, int cls)
+        {
+            return contextClass.students.Where(x => x.section == sec && x.clss == cls).ToList();
         }
     }
 }

@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace Nexu_SMS.Repository
 {
-    public class ClassManagementRepo : IClassManagementRepo<ClassModel>
+    public class ClassManagementRepo : IRepositoty<ClassManagement>
     {
         public readonly ContextClass contextClass;
         public ClassManagementRepo(ContextClass contextClass)
@@ -13,57 +13,44 @@ namespace Nexu_SMS.Repository
         }
     
 
-        public void AssignTeacher(string id, string teacher)
+        public void Add(ClassManagement classManagement)
         {
+            
+            var tchr = from t in contextClass.teachers
+                       where t.teacherId == classManagement.Teacherid
+                       select t;
+
+            if (tchr!= null)
             {
-                {
-                    ClassModel model = contextClass.classModels.FirstOrDefault(c => c.ClassId == id);
-                    if (model != null)
-                    {
-                        model.Teacherid = teacher;
-                        contextClass.SaveChanges();
-                    }
-                }
+            contextClass.classes.Add(classManagement);
+            contextClass.SaveChanges();
             }
         }
 
- 
-    
-
-        public void DeleteClass(string id)
+        public ClassManagement Get(string id)
         {
-            {
-                ClassModel model = contextClass.classModels.FirstOrDefault(c => c.ClassId == id);
-                if (model != null)
-                {
-                    contextClass.classModels.Remove(model);
-                }
-            }
+            return contextClass.classes.SingleOrDefault(c => c.ClassId == id);
         }
 
-        public ClassModel GetClassById(string id)
+        public List<ClassManagement> GetAll()
         {
-            return contextClass.classModels.FirstOrDefault(c => c.ClassId == id);
-        }
-
-        public List<ClassModel> GetClasses()
-        {
-            return contextClass.classModels.ToList();
+            return contextClass.classes.ToList();
         }
 
  
 
-        public void UpdateClass(ClassModel updatedModel)
+        public void Update(ClassManagement  classManagement)
         {
-            {
-                ClassModel model = contextClass.classModels.FirstOrDefault(c => c.ClassId == updatedModel.ClassId);
-                if (model != null)
-                {
-                    model.ClassName = updatedModel.ClassName;
-                    model.Schedule = updatedModel.Schedule;
-                }
+           contextClass.Update(classManagement);
+            contextClass.SaveChanges();
+        }
 
-            }
+       
+        public void Delete(string id)
+        {
+            ClassManagement cls = contextClass.classes.Find(id);
+            contextClass.classes.Remove(cls);
+            contextClass.SaveChanges();
         }
     }
 

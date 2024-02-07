@@ -1,5 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 
 namespace Nexu_SMS.Entity
 {
@@ -7,13 +7,15 @@ namespace Nexu_SMS.Entity
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.None)] //disable the identity
-        public string sub_Id { get; set; }
-        public string sub_Name { get; set; }
+        [Column("Subject Id")]
+        public string subId { get; set; }
+
+        [Column("Subject Name")]
+        public string subName { get; set; }
 
 
-
-        /*        [ForeignKey("Stu_id")]
-                public int Stu_id { get; set; }
-                public Student Student { get; set; }*/
+        //navigation
+      /*  [ForeignKey("Stuid")]
+        public Student Student { get; set; }*/
     }
 }

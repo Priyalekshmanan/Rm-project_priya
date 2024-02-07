@@ -18,9 +18,23 @@ namespace Nexu_SMS
             builder.Services.AddTransient<StudentRepo>();
             builder.Services.AddTransient<UsersRepo>();
             builder.Services.AddTransient<TeacherRepo>();
-            builder.Services.AddTransient<ExamSchRepo>();
+            builder.Services.AddTransient<SAttendanceRepo>();
+            builder.Services.AddTransient<TAttandanceRepo>();
+            builder.Services.AddTransient<ClassManagementRepo>();
+            builder.Services.AddTransient<ExamRepo>();
             builder.Services.AddTransient<ResultRepo>();
+
+
             builder.Services.AddControllers();
+            builder.Services.AddCors(c =>
+            {
+                c.AddPolicy("AllowOrigin", options =>
+                {
+                    options.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader();
+                });
+            });
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
@@ -36,7 +50,7 @@ namespace Nexu_SMS
 
             app.UseAuthorization();
 
-
+            app.UseCors("AllowOrigin");
             app.MapControllers();
 
             app.Run();

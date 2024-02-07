@@ -15,11 +15,14 @@ namespace Nexu_SMS.Entity
         public DbSet<Student> students { get; set; }
         public DbSet<Users> users { get; set; }
 
-        public DbSet<ClassModel> classModels { get; set; }
+        public DbSet<ClassManagement> classes { get; set; }
         public DbSet<Teacher> teachers { get; set; }
-        public DbSet<Exam> exams { get; set; }
-        public DbSet<Subject> sub { get; set; }
+        public DbSet<SAttendance> sattendances { get; set; }
+        public DbSet<TAttendance> tattendances { get; set; }
+        public DbSet<Exam> exams { get; set; }  
+        public DbSet<Subject> subjects { get; set; }
         public DbSet<Result> results { get; set; }
+       // public DbSet<PublishResult> publishResults { get; set; }
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
