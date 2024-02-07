@@ -1,4 +1,5 @@
 ﻿using Nexu_SMS.Entity;
+using Nexu_SMS.Models;
 
 namespace Nexu_SMS.Repository
 {
@@ -15,7 +16,7 @@ namespace Nexu_SMS.Repository
             if (record != null)
             {
                 contextclass.Add(entity);
-                contextclass.SaveChanges(); 
+                contextclass.SaveChanges();
             }
 
         }
@@ -28,7 +29,7 @@ namespace Nexu_SMS.Repository
 
         public List<Result> GetBYID(string id)
         {
-            
+
             return contextclass.results.Where(x => x.studentId == id).ToList();
         }
 

@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Nexu_SMS.Entity;
+using Nexu_SMS.Models;
 
 namespace Nexu_SMS.Repository
 {
@@ -101,6 +102,10 @@ namespace Nexu_SMS.Repository
 
 
             }
+        }
+        public Users Validate(Login login)
+        {
+            return _context.users.SingleOrDefault(x => x.userName == login.userName && x.password == login.password);
         }
     }
 }

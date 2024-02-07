@@ -99,10 +99,6 @@ namespace Nexu_SMS.Migrations
                         .HasColumnType("real")
                         .HasColumnName("Marks");
 
-                    b.Property<string>("stu_id")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("studentId")
                         .IsRequired()
                         .HasColumnType("varchar(30)")
@@ -202,17 +198,12 @@ namespace Nexu_SMS.Migrations
                         .HasColumnType("nvarchar(450)")
                         .HasColumnName("Subject Id");
 
-                    b.Property<string>("Stuid")
-                        .HasColumnType("varchar(30)");
-
                     b.Property<string>("subName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)")
                         .HasColumnName("Subject Name");
 
                     b.HasKey("sub_Id");
-
-                    b.HasIndex("Stuid");
 
                     b.ToTable("subjects");
                 });
@@ -395,15 +386,6 @@ namespace Nexu_SMS.Migrations
                         .IsRequired();
 
                     b.Navigation("student");
-                });
-
-            modelBuilder.Entity("Nexu_SMS.Entity.Subject", b =>
-                {
-                    b.HasOne("Nexu_SMS.Entity.Student", "Student")
-                        .WithMany()
-                        .HasForeignKey("Stuid");
-
-                    b.Navigation("Student");
                 });
 
             modelBuilder.Entity("Nexu_SMS.Entity.TAttendance", b =>

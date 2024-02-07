@@ -1,4 +1,4 @@
-﻿namespace Nexu_SMS.Entity
+﻿namespace Nexu_SMS.Models
 {
     public class PublishResult
     {

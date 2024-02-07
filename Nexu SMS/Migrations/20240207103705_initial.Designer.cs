@@ -12,8 +12,8 @@ using Nexu_SMS.Entity;
 namespace Nexu_SMS.Migrations
 {
     [DbContext(typeof(ContextClass))]
-    [Migration("20240207085052_init1")]
-    partial class init1
+    [Migration("20240207103705_initial")]
+    partial class initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -101,10 +101,6 @@ namespace Nexu_SMS.Migrations
                     b.Property<float>("marks")
                         .HasColumnType("real")
                         .HasColumnName("Marks");
-
-                    b.Property<string>("stu_id")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("studentId")
                         .IsRequired()
@@ -205,17 +201,12 @@ namespace Nexu_SMS.Migrations
                         .HasColumnType("nvarchar(450)")
                         .HasColumnName("Subject Id");
 
-                    b.Property<string>("Stuid")
-                        .HasColumnType("varchar(30)");
-
                     b.Property<string>("subName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)")
                         .HasColumnName("Subject Name");
 
                     b.HasKey("sub_Id");
-
-                    b.HasIndex("Stuid");
 
                     b.ToTable("subjects");
                 });
@@ -398,15 +389,6 @@ namespace Nexu_SMS.Migrations
                         .IsRequired();
 
                     b.Navigation("student");
-                });
-
-            modelBuilder.Entity("Nexu_SMS.Entity.Subject", b =>
-                {
-                    b.HasOne("Nexu_SMS.Entity.Student", "Student")
-                        .WithMany()
-                        .HasForeignKey("Stuid");
-
-                    b.Navigation("Student");
                 });
 
             modelBuilder.Entity("Nexu_SMS.Entity.TAttendance", b =>

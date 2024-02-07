@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Nexu_SMS.Migrations
 {
     /// <inheritdoc />
-    public partial class init1 : Migration
+    public partial class initial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -39,6 +39,18 @@ namespace Nexu_SMS.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_students", x => x.id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "subjects",
+                columns: table => new
+                {
+                    SubjectId = table.Column<string>(name: "Subject Id", type: "nvarchar(450)", nullable: false),
+                    SubjectName = table.Column<string>(name: "Subject Name", type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_subjects", x => x.SubjectId);
                 });
 
             migrationBuilder.CreateTable(
@@ -93,24 +105,6 @@ namespace Nexu_SMS.Migrations
                         principalTable: "students",
                         principalColumn: "id",
                         onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "subjects",
-                columns: table => new
-                {
-                    SubjectId = table.Column<string>(name: "Subject Id", type: "nvarchar(450)", nullable: false),
-                    SubjectName = table.Column<string>(name: "Subject Name", type: "nvarchar(max)", nullable: false),
-                    Stuid = table.Column<string>(type: "varchar(30)", nullable: true)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_subjects", x => x.SubjectId);
-                    table.ForeignKey(
-                        name: "FK_subjects_students_Stuid",
-                        column: x => x.Stuid,
-                        principalTable: "students",
-                        principalColumn: "id");
                 });
 
             migrationBuilder.CreateTable(
@@ -188,8 +182,7 @@ namespace Nexu_SMS.Migrations
                     ExamID = table.Column<string>(name: "Exam ID", type: "nvarchar(450)", nullable: false),
                     StudentID = table.Column<string>(name: "Student ID", type: "varchar(30)", nullable: false),
                     SubjectID = table.Column<string>(name: "Subject ID", type: "nvarchar(450)", nullable: false),
-                    Marks = table.Column<float>(type: "real", nullable: false),
-                    stu_id = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Marks = table.Column<float>(type: "real", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -250,11 +243,6 @@ namespace Nexu_SMS.Migrations
                 column: "studentId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_subjects_Stuid",
-                table: "subjects",
-                column: "Stuid");
-
-            migrationBuilder.CreateIndex(
                 name: "IX_Teacher_Attendance_Table_teacherId",
                 table: "Teacher_Attendance_Table",
                 column: "teacherId");
@@ -282,6 +270,9 @@ namespace Nexu_SMS.Migrations
                 name: "exams");
 
             migrationBuilder.DropTable(
+                name: "students");
+
+            migrationBuilder.DropTable(
                 name: "Class_Table");
 
             migrationBuilder.DropTable(
@@ -289,9 +280,6 @@ namespace Nexu_SMS.Migrations
 
             migrationBuilder.DropTable(
                 name: "Teachers");
-
-            migrationBuilder.DropTable(
-                name: "students");
         }
     }
 }
