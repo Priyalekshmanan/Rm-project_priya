@@ -15,8 +15,11 @@ namespace Nexu_SMS.Entity
         public DateTime date { get; set;}
         [Required]
         public bool status { get; set;}
-        ////
-      
-        
+
+        //// navigation 
+        [ForeignKey("studentId")]
+        public Student? student { get; set; }
+
+
     }
 }

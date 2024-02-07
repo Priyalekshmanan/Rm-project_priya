@@ -8,14 +8,14 @@ namespace Nexu_SMS.Entity
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.None)] //disable the identity
         [Column("Subject Id")]
-        public string subId { get; set; }
+        public string sub_Id { get; set; }
 
         [Column("Subject Name")]
         public string subName { get; set; }
 
 
-        //navigation
-      /*  [ForeignKey("Stuid")]
+       /* //navigation
+        [ForeignKey("Stuid")]
         public Student Student { get; set; }*/
     }
 }

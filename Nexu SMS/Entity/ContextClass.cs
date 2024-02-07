@@ -29,6 +29,6 @@ namespace Nexu_SMS.Entity
         {
             optionsBuilder.UseSqlServer(configuration.GetConnectionString("conString"));
         }
-
+        
     }
 }

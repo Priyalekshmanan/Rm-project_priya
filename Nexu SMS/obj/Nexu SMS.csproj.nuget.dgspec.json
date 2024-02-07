@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm_Project_Hani\\Nexu SMS\\Nexu SMS.csproj": {}
+    "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm-project_priya\\Nexu SMS\\Nexu SMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm_Project_Hani\\Nexu SMS\\Nexu SMS.csproj": {
+    "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm-project_priya\\Nexu SMS\\Nexu SMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm_Project_Hani\\Nexu SMS\\Nexu SMS.csproj",
+        "projectUniqueName": "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm-project_priya\\Nexu SMS\\Nexu SMS.csproj",
         "projectName": "Nexu SMS",
-        "projectPath": "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm_Project_Hani\\Nexu SMS\\Nexu SMS.csproj",
+        "projectPath": "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm-project_priya\\Nexu SMS\\Nexu SMS.csproj",
         "packagesPath": "C:\\Users\\pmuthamm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm_Project_Hani\\Nexu SMS\\obj\\",
+        "outputPath": "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm-project_priya\\Nexu SMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmuthamm\\AppData\\Roaming\\NuGet\\NuGet.Config",

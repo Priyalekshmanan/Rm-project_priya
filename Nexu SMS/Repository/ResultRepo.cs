@@ -10,7 +10,7 @@ namespace Nexu_SMS.Repository
             var record = from e in contextclass.exams
                          from sb in contextclass.subjects
                          from s in contextclass.students
-                         where e.examId == entity.examId && sb.subId == entity.subjectId && s.id == entity.studentId
+                         where e.examId == entity.examId && sb.sub_Id == entity.subjectId && s.id == entity.studentId
                          select e;
             if (record != null)
             {

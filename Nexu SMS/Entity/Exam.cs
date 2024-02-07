@@ -27,11 +27,12 @@ namespace Nexu_SMS.Entity
         [Column("Subject ID")]
         public string subId { get; set; }
 
+        //Navigation
 
-       /* [ForeignKey("classId")]
+        [ForeignKey("classId")]
         public ClassManagement? classManagement { get; set; }
 
         [ForeignKey("subId")]
-        public Subject? subject { get; set; }*/
+        public Subject? subject { get; set; }
     }
 }

@@ -17,5 +17,10 @@ namespace Nexu_SMS.Entity
         [Column("Teacher ID")]
         public string Teacherid { get; set; }
 
+        //navigation prop
+        [ForeignKey("Teacherid")]
+        public Teacher? Teacher { get; set; }   
+
+
     }
 }

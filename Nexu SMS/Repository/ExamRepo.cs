@@ -15,7 +15,7 @@ namespace Nexu_SMS.Repository
         {
             var check = from s in contextClass.subjects
                         from c in contextClass.classes
-                        where s.subId == entity.subId && c.ClassId == entity.classId
+                        where s.sub_Id == entity.subId && c.ClassId == entity.classId
                         select s;
             if (check != null)
             {

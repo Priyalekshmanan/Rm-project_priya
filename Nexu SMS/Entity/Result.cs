@@ -28,14 +28,13 @@ namespace Nexu_SMS.Entity
 
 
 
-        /*[ForeignKey("exam_Id")]
+        [ForeignKey("examId")]
         public Exam? exam { get; set; }
 
-        [ForeignKey("sub_Id")]
+        [ForeignKey("subjectId")]
         public Subject? subject { get; set; }
 
-        public string stu_id { get; set; }
-        [ForeignKey("stu_id")]
-        public Student? student { get; set; }*/
+        [ForeignKey("studentId")]
+        public Student? student { get; set; }
     }
 }
