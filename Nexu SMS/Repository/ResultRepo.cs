@@ -60,13 +60,13 @@ namespace Nexu_SMS.Repository
                          };
              return query.ToList();
          }*/
-        public List<PublishResult> GetResults()
+        public List<Models.PublishResult> GetResults()
         {
             var query = from result in contextclass.results
                         join student in contextclass.students
                         on result.studentId equals student.id
                         group result by new { result.studentId, result.examId, result.subjectId, student.fName } into g
-                        select new PublishResult()
+                        select new Models.PublishResult()
                         {
                             stu_id = g.Key.studentId,
                             examId = g.Key.examId,

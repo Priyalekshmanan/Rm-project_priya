@@ -10,7 +10,7 @@ namespace Nexu_SMS.Entity
         {
             this.configuration = configuration;
         }
-
+        //public DbSet<Admin> admins { get; set; }
         public DbSet<AdmissionNo> admissionNos { get; set; }
         public DbSet<Student> students { get; set; }
         public DbSet<Users> users { get; set; }

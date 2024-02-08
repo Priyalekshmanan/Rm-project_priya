@@ -1,8 +1,9 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
-
+using Nexu_SMS.DTO;
 using Nexu_SMS.Entity;
 using Nexu_SMS.Models;
 using Nexu_SMS.Repository;
@@ -13,7 +14,9 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Nexu_SMS.Controllers
 {
-    [Authorize(Roles = "teacher")]
+    /*  [Authorize(Roles = "Admin")]*/
+    [AllowAnonymous]
+
     [Route("api/[controller]")]
     [ApiController]
     public class UsersController : ControllerBase
@@ -26,21 +29,20 @@ namespace Nexu_SMS.Controllers
         {
             this.usersRepo = usersRepo;
             this.configuration = configuration;
-           // this.mapper = mapper;
+           //this.mapper = mapper;
         }
         [HttpPost("Adduser")]
         [AllowAnonymous]
-        public IActionResult AddUser(Users user)
-        {
+       
+            public IActionResult AddUser(Users user)
+            {
+
             usersRepo.Add(user);
             return Ok(user);
+
         }
-        /*    public IActionResult AddUser(UserDto data)
-            {
-                var _user = mapper.Map<Users>(data);
-                usersRepo.Add(_user);
-                return Ok(_user);
-            }*/
+
+
 
         [HttpGet("GetAllUsers")]
         [AllowAnonymous]
@@ -57,8 +59,17 @@ namespace Nexu_SMS.Controllers
         [HttpDelete("DeleteUser/{uid}")]
         public IActionResult DeleteUser(string uid)
         {
-            usersRepo.Delete(uid);
-            return Ok("User deleted");
+            try
+            {
+
+                usersRepo.Delete(uid);
+                return Ok("User deleted");
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
 

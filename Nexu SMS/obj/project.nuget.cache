@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fc6q3HhfqUYQJP+NSdAXqdvGhS3SJnjLjbF3zetpHdmKQ4qAUGr5pe+fB1UR480lxtRUIb5innV+AQpkKllnZg==",
+  "dgSpecHash": "SmDgIiHHC8nNnKNhsxQyHsbogRLk7VUz0GcqPcvMHTFAykEJQFfT2hH6r+r83FDkJbOyLkT9LyCbNZRYWsHFJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Rm-project_priya\\Nexu SMS\\Nexu SMS.csproj",
+  "projectFilePath": "C:\\Users\\pmuthamm\\Desktop\\Final_project\\Nexu SMS\\Nexu SMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pmuthamm\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\pmuthamm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

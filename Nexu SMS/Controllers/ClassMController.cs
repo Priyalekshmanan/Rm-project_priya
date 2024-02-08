@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Nexu_SMS.Entity;
 using Nexu_SMS.Repository;
@@ -16,6 +17,8 @@ namespace Nexu_SMS.Controllers
             this.classManagementrepo = classManagementrepo;
         }
         [HttpPost("AssignClass")]
+        [Authorize(Roles = "Admin")]
+
         public IActionResult AssignClass(ClassManagement classManagement)
         {
 
@@ -31,6 +34,8 @@ namespace Nexu_SMS.Controllers
             }
         }
         [HttpGet("id")]
+        [Authorize(Roles = "Admin,Teacher")]
+
         public IActionResult GetClass(string id)
         {
             try
@@ -49,7 +54,9 @@ namespace Nexu_SMS.Controllers
                 throw;
             }
         }
-        [HttpGet]
+        [HttpGet("GetAllClass")]
+        [Authorize(Roles = "Admin,Teacher")]
+
         public IActionResult GetAllClass( )
         {
 
@@ -65,7 +72,8 @@ namespace Nexu_SMS.Controllers
                 throw;
             }
         }
-        [HttpPut("id")]
+        [HttpPut("UpdateClass")]
+        [Authorize(Roles = "Admin")]
         public IActionResult UpdateClass(string id, [FromBody] ClassManagement classManagement)
         {
             if(id !=classManagement.ClassId)
@@ -83,7 +91,9 @@ namespace Nexu_SMS.Controllers
                 throw;
             }
         }
-        [HttpDelete("id")]
+        [HttpDelete("DeleteClass")]
+        [Authorize(Roles = "Admin")]
+
         public IActionResult DeleteClass(string id)
         {
             try

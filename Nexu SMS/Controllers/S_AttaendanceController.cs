@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Nexu_SMS.Entity;
 using Nexu_SMS.Repository;
@@ -8,6 +9,8 @@ namespace Nexu_SMS.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(Roles = "Teacher")]
+
     public class S_AttendanceController : ControllerBase
     {
         private readonly SAttendanceRepo sattendanceRepo;
@@ -17,7 +20,7 @@ namespace Nexu_SMS.Controllers
             this.sattendanceRepo = sattendanceRepo;
         }
 
-        [HttpPost("Add_Student_Attadndace")]
+        [HttpPost("AddStudentAttadndace")]
         public IActionResult AddSAttendance(SAttendance attendance)
         {
             sattendanceRepo.Add(attendance);
@@ -31,7 +34,9 @@ namespace Nexu_SMS.Controllers
             return Ok(attendance);
         }
 
-        [HttpGet("GetStudentAttandance")]
+        [HttpGet("GetStudentAttandanceById/{id}")]
+        [Authorize(Roles = "Admin,Teacher,Student")]
+
         public IActionResult GetAllAttendance(string id)
         {
             return Ok(sattendanceRepo.Get(id));

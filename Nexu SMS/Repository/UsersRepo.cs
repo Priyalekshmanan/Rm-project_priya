@@ -34,7 +34,7 @@ namespace Nexu_SMS.Repository
             string tempTUname = (from t in _context.teachers
                                  where t.teacherId == entity.userId
                                  select t.teacherFirstName).SingleOrDefault();
-            if (entity.role == "student")
+            if (entity.role == "Student")
             {
                 entity.userName = "snex" + tempSUname;
                 entity.password = tempPass;
@@ -42,7 +42,7 @@ namespace Nexu_SMS.Repository
                 _context.SaveChanges();
 
             }
-            if (entity.role == "teacher")
+            if (entity.role == "Teacher")
             {
 
                 entity.userName = "tnex" + tempTUname;
@@ -86,7 +86,7 @@ namespace Nexu_SMS.Repository
             string tempTUname = (from t in _context.teachers
                                  where t.teacherId == entity.userId
                                  select t.teacherFirstName).SingleOrDefault();
-            if (entity.role == "student")
+            if (entity.role == "Student")
             {
 
                 entity.userName = "snex" + tempSUname;
@@ -94,7 +94,7 @@ namespace Nexu_SMS.Repository
                 _context.SaveChanges();
 
             }
-            if (entity.role == "teacher")
+            if (entity.role == "Teacher")
             {
                 entity.userName = "tnex" + tempTUname;
                 _context.users.Update(entity);

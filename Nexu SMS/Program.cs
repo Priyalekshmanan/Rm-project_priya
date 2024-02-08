@@ -1,5 +1,6 @@
 
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using Nexu_SMS.Entity;
@@ -27,7 +28,9 @@ namespace Nexu_SMS
             builder.Services.AddTransient<ClassManagementRepo>();
             builder.Services.AddTransient<ExamRepo>();
             builder.Services.AddTransient<ResultRepo>();
-            builder.Services.AddControllers();
+            builder.Services.AddAutoMapper(typeof(Program));
+            builder.Services.AddAutoMapper(typeof(Program));
+
             //Configure Authentication Schema to validate Token
             builder.Services.AddAuthentication(options =>
             {
@@ -92,6 +95,8 @@ namespace Nexu_SMS
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            //enable cors to the project
+         
 
             var app = builder.Build();
 
