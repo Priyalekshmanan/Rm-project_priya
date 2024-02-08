@@ -6,6 +6,12 @@ namespace Nexu_SMS.Repository
     public class ResultRepo : IRepositoty<Result>
     {
         public readonly ContextClass contextclass;
+
+        public ResultRepo(ContextClass contextclass)
+        {
+            this.contextclass = contextclass;
+        }
+
         public void Add(Result entity)
         {
             var record = from e in contextclass.exams
@@ -27,10 +33,10 @@ namespace Nexu_SMS.Repository
             contextclass.results.Remove(result);
         }
 
-        public List<Result> GetBYID(string id)
+        public Result GetBYID(string id)
         {
 
-            return contextclass.results.Where(x => x.studentId == id).ToList();
+            return contextclass.results.Find(id);
         }
 
         public List<Result> GetAll()

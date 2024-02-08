@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Nexu_SMS.DTO;
 using Nexu_SMS.Entity;
 using Nexu_SMS.Repository;
 
@@ -11,30 +13,44 @@ namespace Nexu_SMS.Controllers
     public class ClassMController : ControllerBase
     {
         private readonly ClassManagementRepo classManagementrepo;
+        private readonly IMapper mapper;
 
-        public ClassMController(ClassManagementRepo classManagementrepo)
+        public ClassMController(ClassManagementRepo classManagementrepo, IMapper mapper)
         {
             this.classManagementrepo = classManagementrepo;
+            this.mapper = mapper;
         }
         [HttpPost("AssignClass")]
-        [Authorize(Roles = "Admin")]
+        //[Authorize(Roles = "Admin")]
+        [AllowAnonymous]
 
-        public IActionResult AssignClass(ClassManagement classManagement)
+        public IActionResult AssignClass(Classdto classdto)
         {
+            /*
+                        try
+                        {
+                            classManagementrepo.Add(classManagement);
+                            return Ok(classManagement);
+                        }
+                        catch (Exception)
+                        {
 
-            try
-            {
-                classManagementrepo.Add(classManagement);
-                return Ok(classManagement);
-            }
-            catch (Exception)
-            {
+                            throw;
+                        }*/
 
-                throw;
+            ClassManagement Class = mapper.Map<ClassManagement>(classdto);
+            if (ModelState.IsValid)
+            {
+                classManagementrepo.Add(Class);
+
+                return Ok(Class);
             }
+
+            return new JsonResult("Something went wrong") { StatusCode = 500 };
         }
         [HttpGet("id")]
-        [Authorize(Roles = "Admin,Teacher")]
+        // [Authorize(Roles = "Admin,Teacher")]
+        [AllowAnonymous]
 
         public IActionResult GetClass(string id)
         {
@@ -55,9 +71,10 @@ namespace Nexu_SMS.Controllers
             }
         }
         [HttpGet("GetAllClass")]
-        [Authorize(Roles = "Admin,Teacher")]
+        //[Authorize(Roles = "Admin,Teacher")]
+        [AllowAnonymous]
 
-        public IActionResult GetAllClass( )
+        public IActionResult GetAllClass()
         {
 
             try
@@ -73,26 +90,22 @@ namespace Nexu_SMS.Controllers
             }
         }
         [HttpPut("UpdateClass")]
-        [Authorize(Roles = "Admin")]
-        public IActionResult UpdateClass(string id, [FromBody] ClassManagement classManagement)
+        // [Authorize(Roles = "Admin")]
+        [AllowAnonymous]
+        public IActionResult UpdateClass(Classdto classdto)
         {
-            if(id !=classManagement.ClassId)
+            ClassManagement classs = mapper.Map<ClassManagement>(classdto);
+            if (ModelState.IsValid)
             {
-                return BadRequest("Class id mismatched");
+                classManagementrepo.Update(classs);
+                return Ok(classs);
             }
-            try
-            {
-                classManagementrepo.Update(classManagement);
-                return Ok(classManagement);
-            }
-            catch (Exception)
-            {
+            return new JsonResult("Something went wrong") { StatusCode = 500 };
 
-                throw;
-            }
         }
         [HttpDelete("DeleteClass")]
-        [Authorize(Roles = "Admin")]
+        // [Authorize(Roles = "Admin")]
+        [AllowAnonymous]
 
         public IActionResult DeleteClass(string id)
         {

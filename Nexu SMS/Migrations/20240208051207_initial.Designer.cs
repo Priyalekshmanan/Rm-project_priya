@@ -12,8 +12,8 @@ using Nexu_SMS.Entity;
 namespace Nexu_SMS.Migrations
 {
     [DbContext(typeof(ContextClass))]
-    [Migration("20240207170311_init")]
-    partial class init
+    [Migration("20240208051207_initial")]
+    partial class initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

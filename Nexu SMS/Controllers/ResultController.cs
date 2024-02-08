@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Nexu_SMS.DTO;
 using Nexu_SMS.Entity;
 using Nexu_SMS.Repository;
 
@@ -13,27 +15,31 @@ namespace Nexu_SMS.Controllers
     public class ResultController : ControllerBase
     {
         private readonly ResultRepo resultrepo;
+        private readonly IMapper mapper;
 
-        public ResultController(ResultRepo resultrepo)
+        public ResultController(ResultRepo resultrepo,IMapper mapper)
         {
             this.resultrepo = resultrepo;
+            this.mapper = mapper;
         }
         [HttpPost("Add_Result")]
+        [AllowAnonymous]
 
-        public IActionResult Add([FromBody] Result entity)
+        public IActionResult Add(Resultdto resultdto)
         {
-            try
+          
+            Result result = mapper.Map<Result>(resultdto);
+            if (ModelState.IsValid)
             {
-                resultrepo.Add(entity);
-                return Ok();
-            }
-            catch (Exception)
-            {
+                resultrepo.Add(result);
 
-                throw;
+                return Ok(result);
             }
+
+            return new JsonResult("Something went wrong") { StatusCode = 500 };
         }
         [HttpDelete("DeleteStudentById/{id}")]
+        [AllowAnonymous]
 
         public IActionResult DeleteStudent(string id)
         {
@@ -49,20 +55,20 @@ namespace Nexu_SMS.Controllers
             }
         }
         [HttpPut("UpdateStudent")]
-        public IActionResult EditStudent(Result entity)
+        [AllowAnonymous]
+        public IActionResult EditStudent(Resultdto resultdto)
         {
-            try
-            {
-                resultrepo.Update(entity);
-                return Ok(entity);
-            }
-            catch (Exception)
-            {
 
-                throw;
+            Result results = mapper.Map<Result>(resultdto);
+            if (ModelState.IsValid)
+            {
+                resultrepo.Update(results);
+                return Ok(results);
             }
+            return new JsonResult("Something went wrong") { StatusCode = 500 };
         }
         [HttpGet("GetAllResult")]
+        [AllowAnonymous]
         public IActionResult Get()
         {
             try
@@ -76,6 +82,7 @@ namespace Nexu_SMS.Controllers
             }
         }
         [HttpGet("GetResultById/{id}")]
+        [AllowAnonymous]
         public IActionResult GetStudentById(string id)
         {
             try

@@ -165,7 +165,7 @@ namespace Nexu_SMS.Migrations
                         column: x => x.ClassID,
                         principalTable: "Class_Table",
                         principalColumn: "ClassId",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.NoAction);
                     table.ForeignKey(
                         name: "FK_exams_subjects_Subject ID",
                         column: x => x.SubjectID,

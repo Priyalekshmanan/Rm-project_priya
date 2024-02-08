@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Nexu_SMS.DTO;
 using Nexu_SMS.Entity;
 using Nexu_SMS.Repository;
 
@@ -14,28 +16,46 @@ namespace Nexu_SMS.Controllers
     public class S_AttendanceController : ControllerBase
     {
         private readonly SAttendanceRepo sattendanceRepo;
+        private readonly IMapper mapper;
 
-        public S_AttendanceController(SAttendanceRepo sattendanceRepo)
+        public S_AttendanceController(SAttendanceRepo sattendanceRepo, IMapper mapper)
         {
             this.sattendanceRepo = sattendanceRepo;
+            this.mapper = mapper;
         }
 
         [HttpPost("AddStudentAttadndace")]
-        public IActionResult AddSAttendance(SAttendance attendance)
+        [AllowAnonymous]
+        public IActionResult AddSAttendance(SAttendancedto attendance)
         {
-            sattendanceRepo.Add(attendance);
-            return Ok(attendance);
+
+            SAttendance sAttendance = mapper.Map<SAttendance>(attendance);
+            if (ModelState.IsValid)
+            {
+                sattendanceRepo.Add(sAttendance);
+
+                return Ok(sAttendance);
+            }
+
+            return new JsonResult("Something went wrong") { StatusCode = 500 };
         }
 
         [HttpPut("UpdateStudentAttendance")]
-        public IActionResult UpdateSAttandance(SAttendance attendance)
+        [AllowAnonymous]
+        public IActionResult UpdateSAttandance(SAttendancedto attendance)
         {
-            sattendanceRepo.Update(attendance);
-            return Ok(attendance);
+            SAttendance sAttendance = mapper.Map<SAttendance>(attendance);
+            if (ModelState.IsValid)
+            {
+                sattendanceRepo.Update(sAttendance);
+                return Ok(sAttendance);
+            }
+            return new JsonResult("Something went wrong") { StatusCode = 500 };
         }
 
         [HttpGet("GetStudentAttandanceById/{id}")]
-        [Authorize(Roles = "Admin,Teacher,Student")]
+        //[Authorize(Roles = "Admin,Teacher,Student")]
+        [AllowAnonymous]
 
         public IActionResult GetAllAttendance(string id)
         {
@@ -43,6 +63,7 @@ namespace Nexu_SMS.Controllers
         }
 
         [HttpGet("GetAllStudentAttendance")]
+        [AllowAnonymous]
         public IActionResult GeSAttendance()
         {
             return Ok(sattendanceRepo.GetAll());

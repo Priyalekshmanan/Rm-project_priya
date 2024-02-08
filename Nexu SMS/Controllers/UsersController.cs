@@ -82,6 +82,7 @@ namespace Nexu_SMS.Controllers
             if (user != null)
             {
                 authResponse.userName = user.userName;
+                authResponse.userId = user.userId;  
                authResponse.role = user.role;
                
 

@@ -2,8 +2,10 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Nexu_SMS.DTO;
 using Nexu_SMS.Entity;
 using Nexu_SMS.Repository;
+using Nexu_SMS.Profiles;
 
 namespace Nexu_SMS.Controllers
 {
@@ -21,22 +23,28 @@ namespace Nexu_SMS.Controllers
             this.examRepo = examRepo;
             this.mapper = mapper;
         }
-        [HttpPost("Add_Exam")]
 
-        public IActionResult Add([FromBody] Exam entity)
+        [HttpPost, Route("AddExam")]
+        [AllowAnonymous]
+        public IActionResult Add(Examdto examdto)
         {
-            try
+           
+           Exam exams = mapper.Map<Exam>(examdto);
+            if (ModelState.IsValid)
             {
-                examRepo.Add(entity);
-                return Ok();
-            }
-            catch (Exception)
-            {
+                examRepo.Add(exams);
 
-                throw;
+                return Ok(exams);
             }
+
+            return new JsonResult("Something went wrong") { StatusCode = 500 };
         }
+
+
+      
+    
         [HttpGet("GetExamById/{id}")]
+        [AllowAnonymous]
         public IActionResult Get(string id)
         {
             var exam = examRepo.Get(id);
@@ -48,6 +56,7 @@ namespace Nexu_SMS.Controllers
 
         }
         [HttpGet("GetAllExam")]
+        [AllowAnonymous]
         public IActionResult GetAll()
         {
             try
@@ -62,26 +71,21 @@ namespace Nexu_SMS.Controllers
             }
         }
         [HttpPut("UpdateXamDetails")]
-        public IActionResult UpdateExam(string id, [FromBody] Exam entity)
+        [AllowAnonymous]
+        public IActionResult Update(Examdto examdto)
         {
 
-            if (id != entity.examId)
+            Exam examss = mapper.Map<Exam>(examdto);
+            if (ModelState.IsValid)
             {
-                return BadRequest("Mismatched");
+                examRepo.Update(examss);
+                return Ok(examss);
             }
-            try
-            {
-                examRepo.Update(entity);
-                return Ok(entity);
-            }
-            catch (Exception)
-            {
-
-                throw;
-            }
+            return new JsonResult("Something went wrong") { StatusCode = 500 };
 
         }
         [HttpDelete("DeleteExam/{id}")]
+        [AllowAnonymous]
         public IActionResult DeleteExams(string id)
         {
             try

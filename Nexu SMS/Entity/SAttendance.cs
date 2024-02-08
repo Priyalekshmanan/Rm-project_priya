@@ -10,6 +10,9 @@ namespace Nexu_SMS.Entity
         public Guid attendanceId { get; set; }
         [Required]
         public string studentId { get; set;}
+
+        [Required]
+        public string classId { get; set; }
        
         [Required]
         public DateTime date { get; set;}

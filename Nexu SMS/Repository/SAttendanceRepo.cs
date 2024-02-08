@@ -14,14 +14,17 @@ namespace Nexu_SMS.Repository
         public void Add(SAttendance attendance)
         {
             var stdAtn = from s in contextClass.students
-                         where s.id == attendance.studentId
+                         from clasmanagemt in contextClass.classes
+                         from t in contextClass.teachers
+                         where s.id == attendance.studentId && clasmanagemt.ClassId == attendance.classId && t.teacherId == clasmanagemt.Teacherid
                          select s;
+
             if (stdAtn != null)
             {
                 contextClass.sattendances.Add(attendance);
                 contextClass.SaveChanges();
             }
-           
+
 
         }
 
@@ -30,9 +33,9 @@ namespace Nexu_SMS.Repository
             throw new NotImplementedException();
         }
 
-        public SAttendance Get(string id)
+        public Student Get(string id)
         {
-            return contextClass.sattendances.Find(id);
+            return contextClass.students.Find(id);
         }
 
         public List<SAttendance> GetAll()
@@ -44,6 +47,11 @@ namespace Nexu_SMS.Repository
         {
             contextClass.sattendances.Update(attendance);
             contextClass.SaveChanges();
+        }
+
+        SAttendance IRepositoty<SAttendance>.Get(string id)
+        {
+            throw new NotImplementedException();
         }
     }
 }
