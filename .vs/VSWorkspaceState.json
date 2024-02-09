@@ -3,10 +3,11 @@
     "",
     "\\Nexu SMS",
     "\\Nexu SMS\\Controllers",
+    "\\Nexu SMS\\DTO",
     "\\Nexu SMS\\Entity",
     "\\Nexu SMS\\Migrations",
     "\\Nexu SMS\\Repository"
   ],
-  "SelectedNode": "\\Nexu SMS\\Entity\\ClassManagement.cs",
+  "SelectedNode": "\\Nexu SMS\\Nexu SMS.sln",
   "PreviewInSolutionExplorer": false
 }

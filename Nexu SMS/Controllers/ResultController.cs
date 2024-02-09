@@ -82,7 +82,7 @@ namespace Nexu_SMS.Controllers
             }
         }
         [HttpGet("GetResultById/{id}")]
-        [AllowAnonymous]
+        
         public IActionResult GetStudentById(string id)
         {
             try
