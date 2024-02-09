@@ -9,9 +9,9 @@ namespace Nexu_SMS.Profiles
         public TAttendanceProfile() 
         {
 
-            CreateMap<TAttendance, TAttendancedto>()
-             .ForMember(dest => dest.attendanceId, opt => opt.MapFrom(src => src.attendanceId))
-            .ReverseMap();
+            CreateMap<TAttendance, TAttendancedto>();
+            /* .ForMember(dest => dest.attendanceId, opt => opt.MapFrom(src => src.attendanceId))
+            .ReverseMap();*/
             CreateMap<TAttendancedto, TAttendance>();
             //CreateMap<StudentUpdatedto, Student>();
         }

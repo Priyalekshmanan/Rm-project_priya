@@ -84,7 +84,7 @@ namespace Nexu_SMS.Controllers
                 }
                 var teacherdto = mapper.Map<Teacherdto>(teacher);*/
                 Teacher t1 = teacherRepository.GetTeacherById(teacherId);
-                Teacherdto teacherDTO = mapper.Map<Teacherdto>(t1);
+                TeacherUpdatedto teacherDTO = mapper.Map<TeacherUpdatedto>(t1);
                 return Ok(teacherDTO);
 
             }

@@ -25,6 +25,7 @@ namespace Nexu_SMS.Controllers
         }
 
         [HttpPost, Route("AddExam")]
+        [AllowAnonymous]
         public IActionResult Add(Examdto examdto)
         {
            
@@ -43,8 +44,7 @@ namespace Nexu_SMS.Controllers
       
     
         [HttpGet("GetExamById/{id}")]
-        [Authorize(Roles = "Admin,Teacher")]
-
+        [AllowAnonymous]
         public IActionResult Get(string id)
         {
             var exam = examRepo.Get(id);
@@ -56,8 +56,7 @@ namespace Nexu_SMS.Controllers
 
         }
         [HttpGet("GetAllExam")]
-        [Authorize(Roles = "Admin,Teacher")]
-
+        [AllowAnonymous]
         public IActionResult GetAll()
         {
             try
@@ -72,8 +71,7 @@ namespace Nexu_SMS.Controllers
             }
         }
         [HttpPut("UpdateXamDetails")]
-        [Authorize(Roles = "Admin")]
-
+        [AllowAnonymous]
         public IActionResult Update(Examdto examdto)
         {
 
@@ -87,8 +85,7 @@ namespace Nexu_SMS.Controllers
 
         }
         [HttpDelete("DeleteExam/{id}")]
-        [Authorize(Roles = "Admin")]
-
+        [AllowAnonymous]
         public IActionResult DeleteExams(string id)
         {
             try

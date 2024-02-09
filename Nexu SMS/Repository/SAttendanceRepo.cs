@@ -13,6 +13,8 @@ namespace Nexu_SMS.Repository
 
         public void Add(SAttendance attendance)
         {
+            DateTime today = DateTime.Now;
+            Guid gid = Guid.NewGuid();
             var stdAtn = from s in contextClass.students
                          from clasmanagemt in contextClass.classes
                          from t in contextClass.teachers
@@ -21,6 +23,8 @@ namespace Nexu_SMS.Repository
 
             if (stdAtn != null)
             {
+                attendance.date= today;
+                attendance.attendanceId = gid;
                 contextClass.sattendances.Add(attendance);
                 contextClass.SaveChanges();
             }

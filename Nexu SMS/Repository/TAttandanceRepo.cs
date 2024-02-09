@@ -13,11 +13,16 @@ namespace Nexu_SMS.Repository
 
         public void Add(TAttendance attendance)
         {
+            DateTime today = DateTime.Now;
+            Guid gid = Guid.NewGuid();
+
             var TcrAtn = from t in contextClass.teachers
                          where t.teacherId == attendance.teacherId
                          select t;
             if (TcrAtn != null)
             {
+                attendance.date = today;
+                attendance.attendanceId = gid;
                 contextClass.tattendances.Add(attendance);
                 contextClass.SaveChanges();
             }

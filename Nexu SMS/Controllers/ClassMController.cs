@@ -21,7 +21,8 @@ namespace Nexu_SMS.Controllers
             this.mapper = mapper;
         }
         [HttpPost("AssignClass")]
-        [Authorize(Roles = "Admin")]
+        //[Authorize(Roles = "Admin")]
+        [AllowAnonymous]
 
         public IActionResult AssignClass(Classdto classdto)
         {
@@ -47,8 +48,9 @@ namespace Nexu_SMS.Controllers
 
             return new JsonResult("Something went wrong") { StatusCode = 500 };
         }
-        [HttpGet("GetClassById")]
-        [Authorize(Roles = "Admin,Teacher")]
+        [HttpGet("id")]
+        // [Authorize(Roles = "Admin,Teacher")]
+        [AllowAnonymous]
 
         public IActionResult GetClass(string id)
         {
@@ -69,7 +71,8 @@ namespace Nexu_SMS.Controllers
             }
         }
         [HttpGet("GetAllClass")]
-        [Authorize(Roles = "Admin,Teacher")]
+        //[Authorize(Roles = "Admin,Teacher")]
+        [AllowAnonymous]
 
         public IActionResult GetAllClass()
         {
@@ -87,7 +90,8 @@ namespace Nexu_SMS.Controllers
             }
         }
         [HttpPut("UpdateClass")]
-        [Authorize(Roles = "Admin")]
+        // [Authorize(Roles = "Admin")]
+        [AllowAnonymous]
         public IActionResult UpdateClass(Classdto classdto)
         {
             ClassManagement classs = mapper.Map<ClassManagement>(classdto);
@@ -100,7 +104,8 @@ namespace Nexu_SMS.Controllers
 
         }
         [HttpDelete("DeleteClass")]
-        [Authorize(Roles = "Admin")]
+        // [Authorize(Roles = "Admin")]
+        [AllowAnonymous]
 
         public IActionResult DeleteClass(string id)
         {
