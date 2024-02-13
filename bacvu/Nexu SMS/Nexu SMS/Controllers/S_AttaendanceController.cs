@@ -68,5 +68,11 @@ namespace Nexu_SMS.Controllers
         {
             return Ok(sattendanceRepo.GetAll());
         }
+        [HttpGet("GetAttendanceByClassID/{id}")]
+        [AllowAnonymous]
+        public IActionResult GetAttendanceByClassID(string id)
+        {
+            return Ok(sattendanceRepo.GetAttByClaassId(id));
+        }
     }
 }

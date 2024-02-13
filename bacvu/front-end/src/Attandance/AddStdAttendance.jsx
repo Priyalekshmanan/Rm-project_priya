@@ -85,6 +85,7 @@ export default function Attendance() {
     ))
     .then((responses) => {
       console.log("Attendance submitted successfully");
+      alert("Attendance submitted successfully")
     })
     .catch((error) => {
       console.error("Error submitting attendance:", error);

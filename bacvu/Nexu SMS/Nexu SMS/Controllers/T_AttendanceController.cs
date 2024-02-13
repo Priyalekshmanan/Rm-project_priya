@@ -55,7 +55,7 @@ namespace Nexu_SMS.Controllers
             return new JsonResult("Something went wrong") { StatusCode = 500 };
         }
 
-        [HttpGet("GetTeacherAttandance")]
+        [HttpGet("GetTeacherAttandance/{id}")]
         [AllowAnonymous]
         public IActionResult GetAllAttendance(string id)
         {

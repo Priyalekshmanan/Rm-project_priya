@@ -68,8 +68,8 @@ export default function LoginPageNew() {
                     <div class="form-group">
                       <input type="button" class="btn btn-primary btn-pill" value="Sign In" onClick={Validate}/>
                     </div>
-                    <Link to="/studregister">
-                <div className="text ">Don't have an account? <label htmlFor="flip">Sigup now</label></div>
+                    <Link to="password-recovery">
+                <div className="text ">Forgott Password?</div>
                </Link>
                   </form> 
     </div>

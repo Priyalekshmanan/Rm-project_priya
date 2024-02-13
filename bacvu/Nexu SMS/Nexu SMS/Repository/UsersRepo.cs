@@ -30,10 +30,10 @@ namespace Nexu_SMS.Repository
 */
             string tempSUname = (from s in _context.students
                                  where s.id == entity.userId
-                                 select s.fName).SingleOrDefault();
+                                 select s.fName).FirstOrDefault();
             string tempTUname = (from t in _context.teachers
                                  where t.teacherId == entity.userId
-                                 select t.teacherFirstName).SingleOrDefault();
+                                 select t.teacherFirstName).FirstOrDefault();
             if (entity.role == "Student")
             {
                 entity.userName = "snex" + tempSUname;

@@ -2,10 +2,15 @@ import React from 'react'
 import '../dashBoardCss/material-dashboard.css'
 import '../dashBoardCss/material-dashboard.css.map'
 import '../dashBoardCss/material-dashboard.min.css'
-import { Link, Outlet } from 'react-router-dom'
+import { Link, Outlet, useNavigate } from 'react-router-dom'
 
 
 export default function DashBoard() {
+ const navigate = useNavigate()
+function Logout(){
+    sessionStorage.removeItem("token");
+    navigate("/login")
+  }
   return (
     <div>
       <aside class="sidenav navbar navbar-vertical navbar-expand-xs border-0 border-radius-xl my-3 fixed-start ms-3   bg-gradient-dark" id="sidenav-main">
@@ -40,7 +45,7 @@ export default function DashBoard() {
               <ul class="collapse" id="billing-submenu">
                 <li class="nav-item">
                   <Link to="exam-result">
-                  <a class="nav-link text-white">Result</a>
+                  <a class="nav-link text-white">View Result</a>
                   </Link>
                 </li>
                 <li class="nav-item">
@@ -73,7 +78,7 @@ export default function DashBoard() {
           </div>
          
           <li className="nav-item">
-                            <Link to="/teacher-dashboard/notifications" className="nav-link text-white">
+                            <Link to="/student-dashboard/notification" className="nav-link text-white">
                                 <div className="text-white text-center me-2 d-flex align-items-center justify-content-center">
                                     <i className="material-icons opacity-10">notifications</i>
                                 </div>
@@ -83,7 +88,7 @@ export default function DashBoard() {
             
             
             <li class="nav-item">
-              <a class="nav-link text-white " href="../pages/sign-in.html">
+              <a class="nav-link text-white " onClick={Logout}>
                 <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
                   <i class="material-icons opacity-10">login</i>
                 </div>

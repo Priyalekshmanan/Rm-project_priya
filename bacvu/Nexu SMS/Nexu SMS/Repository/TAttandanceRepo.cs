@@ -18,6 +18,7 @@ namespace Nexu_SMS.Repository
                          select t;
             if (TcrAtn != null)
             {
+                attendance.attendanceId = Guid.NewGuid();
                 contextClass.tattendances.Add(attendance);
                 contextClass.SaveChanges();
             }

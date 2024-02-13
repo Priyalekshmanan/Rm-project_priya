@@ -3,6 +3,10 @@ import { Link, Outlet, useNavigate } from 'react-router-dom';
 
 export default function DashBoard() {
     const navigate = useNavigate();
+    function Logout(){
+        sessionStorage.removeItem("token");
+        navigate("/login")
+      }
 
     return (
         <div>
@@ -56,16 +60,20 @@ export default function DashBoard() {
                                     </Link>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link text-white" href="#">View Teacher Attendance</a>
+                                <Link  className="nav-link text-white" to="view-attendances">
+                                    View Attendance                              
+                                    </Link>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link text-white" href="#">Edit Profile</a>
+                                    <Link to="/teacher-dashboard/edit-attendance">
+                                    <a className="nav-link text-white">Edit Attendance</a>
+                                    </Link>
                                 </li>
                             </ul>
                         </li>
 
                         <li className="nav-item">
-                            <Link to="/teacher-dashboard/notifications" className="nav-link text-white">
+                            <Link to="/teacher-dashboard/notification" className="nav-link text-white">
                                 <div className="text-white text-center me-2 d-flex align-items-center justify-content-center">
                                     <i className="material-icons opacity-10">notifications</i>
                                 </div>
@@ -81,10 +89,7 @@ export default function DashBoard() {
                                 <div className="text-white text-center me-2 d-flex align-items-center justify-content-center">
                                     <i className="material-icons opacity-10">login</i>
                                 </div>
-                                <span className="nav-link-text ms-1" onClick={() => {
-                                    sessionStorage.setItem("token", "null")
-                                    navigate("/login");
-                                }}>Sign Out</span>
+                                <span className="nav-link-text ms-1" onClick={Logout}>Sign Out</span>
                             </a>
                         </li>
                     </ul>

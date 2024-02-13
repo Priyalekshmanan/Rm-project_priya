@@ -4,17 +4,20 @@ import { Link } from 'react-router-dom'
 export default function AttendanceButton() {
   return (
     <div className='d-flex justify-content-around my-5'>
-      <Link className="btn btn-primary" href="#" role="button" to="./">
+      <Link className="btn btn-primary"  role="button" to="./">
       Add Student
       </Link>
-      <Link className="btn btn-primary" href="#" role="button" to="view-all-student-attendance">
+      
+      <Link className="btn btn-primary"  role="button" to="view-all-student-attendance">
     View All
       </Link>
       
-      <Link className="btn btn-primary" href="#" role="button" to="student-attendance/all-student-attendance-record">
+      <Link className="btn btn-primary"  role="button" to="all-student-attendance-record">
       All Record
       </Link>
-      <a name id className="btn btn-primary" href="#" role="button">Record By Id</a>
+      <Link className="btn btn-primary" role="button" to="student-attendance-record-by-id">
+        Record By Id
+      </Link>
     </div>
   )
 }

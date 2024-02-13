@@ -22,6 +22,7 @@ namespace Nexu_SMS.Entity
         public DbSet<Exam> exams { get; set; }  
         public DbSet<Subject> subjects { get; set; }
         public DbSet<Result> results { get; set; }
+        public DbSet<Notification> notification { get; set; }
         
        // public DbSet<PublishResult> publishResults { get; set; }
 

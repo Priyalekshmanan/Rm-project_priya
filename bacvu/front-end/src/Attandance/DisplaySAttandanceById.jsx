@@ -7,10 +7,16 @@ export default function DisplayStudentAttendaceById() {
         const [sstartdate, setSstartdate] = useState("")
         const [senddate, setSenddate] = useState("")
         const[dis,setDis]=useState({})
+        const [error,setError]=useState("")
         let userId = sessionStorage.getItem("uid");
         const navigate=useNavigate()
 
        function Result(){
+        if(!sstartdate || !senddate){
+            console.log("Please select both start and end dates.");
+            setError("Please select both start and end dates.")
+            return;
+        }
         if (sessionStorage.getItem("token") != null) {
             console.log(sessionStorage.getItem("token"));
             const headers = {
@@ -39,14 +45,15 @@ export default function DisplayStudentAttendaceById() {
         
     
   return (
-    <div className="main-content position-relative max-height-vh-100 h-100 border-radius-lg">DisplayStuAttbysdNed
+    <div className="main-content position-relative max-height-vh-100 h-100 border-radius-lg">
     <table>
         <tr>
         <td>
             
             <input type='date' placeholder='Start Date' value={sstartdate} onChange={(e)=>setSstartdate(e.target.value)}/>
             <input  type='date' placeholder='End Date' value={senddate} onChange={(e)=>setSenddate(e.target.value)}/>
-            <input type="button" value="GET" onClick={Result} />
+            <input type="button" value="GET" onClick={Result} /><br/>
+            <span className="text-danger">{error}</span>
         </td>
         </tr>
         {/* <tr>

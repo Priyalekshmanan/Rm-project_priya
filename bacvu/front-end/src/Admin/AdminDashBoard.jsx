@@ -4,8 +4,14 @@ import React from 'react'
 // import '../dashBoardCss/material-dashboard.min.css'
 import './admin.css'
 import Profile from './Profile'
-import { Link, Outlet } from 'react-router-dom'
+import { Link, Outlet, useNavigate } from 'react-router-dom'
+
 export default function DashBoard() {
+  const navigate = useNavigate()
+  function Logout(){
+    sessionStorage.removeItem("token");
+    navigate("/login")
+  }
   return (
     <div>
       <aside class="sidenav navbar navbar-vertical navbar-expand-xs border-0 border-radius-xl my-3 fixed-start ms-3   bg-gradient-dark" id="sidenav-main">
@@ -41,18 +47,22 @@ export default function DashBoard() {
               </a>
               <ul class="collapse" id="Teacher-submenu">
                 <li class="nav-item">
-                  <Link to="/Admin-Dashboard/teacher-registration">
+                  <Link to="/Admin-DashBoard/teacher-registration">
                   <a class="nav-link text-white" >Registration</a>
                   </Link>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-white" href="#">Attandance</a>
+                <Link to="/Admin-DashBoard/add-teacher-attendance"> <a class="nav-link text-white" href="#">Add Attandance</a></Link>
+                 
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-white" href="#">Attandance Report</a>
+                  <Link to="/Admin-DashBoard/editteacher-attendance"><a class="nav-link text-white" href="#">Update Attendance</a></Link>
                 </li>
                 <li class="nav-item">
-                  <Link to="/Admin-Dashboard/view-teachers"><a class="nav-link text-white" href="#">View Teacher</a></Link>
+                <Link to="/Admin-DashBoard/display-tattendance"> <a class="nav-link text-white" href="#">Attandance Report</a></Link>   
+                </li>
+                <li class="nav-item">
+                  <Link to="/Admin-DashBoard/view-teachers"><a class="nav-link text-white" href="#">View Teacher</a></Link>
                 
                 </li>
               </ul>
@@ -69,11 +79,13 @@ export default function DashBoard() {
                   <Link to="/Admin-DashBoard/stud-registration"> <a class="nav-link text-white" href="#">Add Student</a></Link>
                  
                 </li>
+                {/* <li class="nav-item">
+                  
+                  <Link to="/Admin-DashBoard/editstu-attendance"> <a class="nav-link text-white" href="#">Edit Attendance</a></Link>
+
+                </li> */}
                 <li class="nav-item">
-                  <a class="nav-link text-white" href="#">Attandance</a>
-                </li>
-                <li class="nav-item">
-                <Link to="/Admin-Dashboard/view-students"><a class="nav-link text-white" href="#">View Students</a></Link>
+                <Link to="/Admin-DashBoard/view-students"><a class="nav-link text-white" href="#">View Students</a></Link>
                 </li>
                 
               </ul>
@@ -149,13 +161,12 @@ export default function DashBoard() {
             <li class="nav-item">
               <a class="nav-link text-white " >
               <i class="material-icons opacity-10">notifications</i>
-              <Link to="/Admin-Dashboard/schedule-exam"> 
+              <Link to="/Admin-Dashboard/add-notification"> 
 
                 <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
                   
                 </div>
                 <span class="nav-link-text ms-1">
-
                     Notifications
                     </span>
                     </Link>
@@ -166,11 +177,11 @@ export default function DashBoard() {
             </li>
            
             <li class="nav-item">
-              <a class="nav-link text-white " href="../pages/sign-in.html">
+              <a class="nav-link text-white " onClick={Logout}>
                 <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
                   <i class="material-icons opacity-10">login</i>
                 </div>
-                <span class="nav-link-text ms-1">Sign Out</span>
+                <span class="nav-link-text ms-1" >Sign Out</span>
               </a>
             </li>
            

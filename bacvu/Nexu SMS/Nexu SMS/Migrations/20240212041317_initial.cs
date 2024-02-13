@@ -104,7 +104,7 @@ namespace Nexu_SMS.Migrations
                         column: x => x.studentId,
                         principalTable: "students",
                         principalColumn: "id",
-                        onDelete: ReferentialAction.NoAction);
+                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateTable(

@@ -14,10 +14,10 @@ export default function TeacherAttendance() {
      })
     }, [])
 
-    function toggleStatus(teacherid) {
+    function toggleStatus(teacherId) {
         setAttendanceStatus((prevStatus) => ({
           ...prevStatus,
-          [teacherid]: !prevStatus[teacherid], // Toggle status for the clicked teacher
+          [teacherId]: !prevStatus[teacherId], // Toggle status for the clicked teacher
         }));
       }
 
@@ -25,9 +25,9 @@ export default function TeacherAttendance() {
         const attendanceRecord=teachers.map((teacher)=>(
             {
                 attendanceId: "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-                teacherId: teacher.teacherid,
+                teacherId: teacher.teacherId,
                 date: new Date().toISOString(),
-                status: attendanceStatus[teacher.teacherid]
+                status: attendanceStatus[teacher.teacherId]
             }
         ))
             console.log(attendanceRecord);
@@ -60,9 +60,9 @@ export default function TeacherAttendance() {
                             <tr>
                                 <td>{item.teacherId}</td>
                                 <td>{item.teacherFirstName}</td>
-                                <td>{attendanceStatus[item.teacherid] ? "Present" : "Absent"}</td> {/* Use individual status */}
+                                <td>{attendanceStatus[item.teacherId] ? "Present" : "Absent"}</td> {/* Use individual status */}
                                 <td>
-                                    <button onClick={() => toggleStatus(item.teacherid)}>Mark Attendance</button>
+                                    <button onClick={() => toggleStatus(item.teacherId)}>Mark Attendance</button>
                                 </td>
                             </tr>
                         )

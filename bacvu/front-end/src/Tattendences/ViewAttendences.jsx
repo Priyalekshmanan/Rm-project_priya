@@ -32,7 +32,7 @@ export default function ViewAttendences() {
             axios
                 .get("http://localhost:5099/api/T_Attendance/GetTeacherAttandance/"+teacherId,{headers})
                 .then((response) => {
-                    setAttendences(response.data);
+                    setAttendences(response.data)
                     console.log(response.data);
                 })
                 .catch((error) => {
@@ -111,7 +111,7 @@ export default function ViewAttendences() {
                                 <td>{item.attendanceId}</td>
                                 <td>{item.teacherId}</td>
                                 <td>{item.date}</td>
-                                <td>{item.status}</td>
+                                <td>{item.status?"Present" :"Absent"}</td>
                             </tr>
                         ))}
                     </tbody>

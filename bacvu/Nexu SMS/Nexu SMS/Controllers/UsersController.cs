@@ -90,7 +90,13 @@ namespace Nexu_SMS.Controllers
             }
             return Ok(authResponse);
         }
-        
+
+        [HttpGet("getUserById/{id}")]
+        public IActionResult getuserbyid(string id)
+        {
+            return Ok(usersRepo.Get(id));
+        }
+
         private string GetToken(Users? user)
         {
             var issuer = configuration["Jwt:Issuer"];

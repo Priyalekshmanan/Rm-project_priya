@@ -2,6 +2,7 @@
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import AttendanceButton from '../AttendanceButton'
 
 export default function DisplayStudentAttendaceById() {
         const [sstartdate, setSstartdate] = useState("")
@@ -40,7 +41,8 @@ export default function DisplayStudentAttendaceById() {
         
     
   return (
-    <div className="main-content position-relative max-height-vh-100 h-100 border-radius-lg">DisplayStuAttbysdNed
+    <div className="main-content position-relative max-height-vh-100 h-100 border-radius-lg">
+        <AttendanceButton/>
     <table>
         <tr>
         <td>

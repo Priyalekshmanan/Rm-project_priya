@@ -29,6 +29,7 @@ namespace Nexu_SMS
             builder.Services.AddTransient<ExamRepo>();
             builder.Services.AddTransient<ResultRepo>();
             builder.Services.AddTransient<DisplayAttendance>();
+            builder.Services.AddTransient<NotificationRepository>();
             builder.Services.AddAutoMapper(typeof(Program));
             builder.Services.AddAutoMapper(typeof(Program));
 

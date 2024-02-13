@@ -89,6 +89,29 @@ namespace Nexu_SMS.Migrations
                     b.ToTable("exams");
                 });
 
+            modelBuilder.Entity("Nexu_SMS.Entity.Notification", b =>
+                {
+                    b.Property<string>("notificationId")
+                        .HasColumnType("nvarchar(450)")
+                        .HasColumnName("Notification ID");
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime2")
+                        .HasColumnName("Notification Time");
+
+                    b.Property<string>("Message")
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Message");
+
+                    b.Property<string>("Role")
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Role");
+
+                    b.HasKey("notificationId");
+
+                    b.ToTable("notification");
+                });
+
             modelBuilder.Entity("Nexu_SMS.Entity.Result", b =>
                 {
                     b.Property<string>("ResultId")

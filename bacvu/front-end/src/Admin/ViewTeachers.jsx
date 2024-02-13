@@ -5,17 +5,35 @@ import React, { useState } from 'react'
 export default function ViewTeachers() {
     const [teachers, setTeachers] = useState([]);
     const [userId, setuserId] = useState('');
+    const [teacherById,setTeacherById]=useState({})
+    const [iderrors, setIdErrors] = useState('');
 
-    const GetById=()=>{
+    const GetById=(e)=>{
+        e.preventDefault(); // Prevent default form submission behavior
+   
+        // // Reset errors
+        setIdErrors('');
+       
+        // // Validation
+        let isValid = true;
+        // if (!iderrors) {
+            if(userId.trim()===''){
+            setIdErrors('Teacher id is required');
+            isValid = false;
+        }
+       
+         if (isValid) {
+        
         axios.get("http://localhost:5099/api/Teacher/getTeachersByTheirId/"+userId)
         .then((res)=>{
             console.log(res.data);
-            setTeachers(res.data);
+            setTeacherById(res.data)
         })
         .catch((err)=>{
             console.log(err);
         });
     }
+}
     
 
     const GetTeachers=()=>{
@@ -31,8 +49,8 @@ export default function ViewTeachers() {
     });
     }
     
-    const Delete=(index,e)=>{
-      axios.delete("http://localhost:5099/api/Teacher/deleteTeacherById/"+index)
+    const Delete=(item)=>{
+      axios.delete("http://localhost:5099/api/Teacher/deleteTeacherById/"+item)
       .then((res)=>{
           console.log(res.data);
          // e.target.deleteRow(index)
@@ -51,20 +69,22 @@ export default function ViewTeachers() {
     
   return (
     <div className="main-content position-relative max-height-vh-100 h-100 border-radius-lg">
-        <form className="d-flex justify-content-end">
+         <form className="d-flex justify-content-end"> 
                     <div className="mb-3">
-                        <input value={userId}
+                        <input 
                             onChange={(e) => setuserId(e.target.value)}
                             type="text"
+                            className={`form-control ${iderrors && 'is-invalid'}`}
                             placeholder="Enter ID"
                         />
+                          {iderrors && <div className="invalid-feedback">{iderrors}</div>}
                        
                     </div>
                     <button onClick={GetById} className="btn btn-success ms-2" type="submit">
                         View
                     </button>
                   
-                </form> 
+                </form>  
        
       <table  className="table table-striped">
         <thead>
@@ -78,7 +98,18 @@ export default function ViewTeachers() {
             </tr>
         </thead>
         <tbody>
-            {teachers.map((item,index)=>(
+        {teacherById.teacherId?(
+            <tr key={teacherById.teacherId}>
+                    <td> {teacherById.teacherId} </td>
+                    {teacherById.teacherId?<td> {teacherById.teacherFirstName+" "+teacherById.teacherLastName} </td>:""}
+                    <td> {teacherById.dateOfBirth} </td>
+                    <td> {teacherById.teacherGender} </td>
+                    <td> {teacherById.teacherSubjectTaught} </td>
+                    <td> {teacherById.teacherEmail} </td>
+                    {teacherById.teacherId?<td><button onClick={(e) => Delete(teacherById.teacherId)}>Delete</button></td>:""}
+            </tr>
+        ):(
+            teachers.map((item,index)=>(
                 <tr key={index}>
                     <td> {item.teacherId} </td>
                     <td> {item.teacherFirstName+" "+item.teacherLastName} </td>
@@ -86,125 +117,18 @@ export default function ViewTeachers() {
                     <td> {item.teacherGender} </td>
                     <td> {item.teacherSubjectTaught} </td>
                     <td> {item.teacherEmail} </td>
-                    <td><button onClick={(e) => Delete(item.teacherid,e)}>Delete</button></td> 
+                    <td><button onClick={(e) => Delete(item.teacherId)}>Delete</button></td> 
                 </tr>
+                
             )
-            )}
+            ))}
+            
         </tbody>
       </table>
       <button  onClick={GetTeachers} type="button"  className="btn btn-outline-primary">View Teachers</button>
-      
     </div>
     
   )
 }
 
-// import axios from 'axios';
-// import React, { useState } from 'react';
 
-// export default function ViewResult() {
-//     const [mark, setMark] = useState([]);
-//     const [exmId, setExmdId] = useState('');
-//     const [stuID, setStuId] = useState('');
-//     const [exmIdError, setExmIdError] = useState('');
-//     const [stuIdError, setStuIdError] = useState('');
-
-//     const GetResultBYExamIdndStuID = (e) => {
-//         e.preventDefault(); // Prevent default form submission behavior
-
-//         // Reset errors
-//         setExmIdError('');
-//         setStuIdError('');
-
-//         // Validation
-//         let isValid = true;
-//         if (!exmId) {
-//             setExmIdError('Exam ID is required');
-//             isValid = false;
-//         }
-//         if (!stuID) {
-//             setStuIdError('Student ID is required');
-//             isValid = false;
-//         }
-
-//         if (isValid) {
-//             axios
-//                 .get(`http://localhost:5099/api/Result/GetByExamIdNStudentId/af/w${exmId}/${stuID}`)
-//                 .then((response) => {
-//                     setMark(response.data);
-//                     console.log(response.data);
-//                 })
-//                 .catch((error) => {
-//                     console.error('Error retrieving results:', error);
-//                     alert('Error retrieving results. Please try again.');
-//                 });
-//         }
-//     };
-
-//     const GetAllResults = () => {
-//         axios
-//             .get("http://localhost:5099/api/Result/GetAllResult")
-//             .then((response) => {
-//                 setMark(response.data);
-//                 console.log(response.data);
-//             })
-//             .catch((error) => {
-//                 console.error('Error retrieving all results:', error);
-//                 alert('Error retrieving all results. Please try again.');
-//             });
-//     };
-
-//     return (
-//         <div className="main-content position-relative max-height-vh-100 h-100 border-radius-lg">
-//             <div className="container">
-//                 <form className="d-flex justify-content-end">
-//                     <div className="mb-3">
-//                         <input
-//                             onChange={(e) => setExmdId(e.target.value)}
-//                             type="text"
-//                             className={`form-control ${exmIdError && 'is-invalid'}`}
-//                             placeholder="Enter Exam ID"
-//                         />
-//                         {exmIdError && <div className="invalid-feedback">{exmIdError}</div>}
-//                     </div>
-//                     <div className="mb-3">
-//                         <input
-//                             onChange={(e) => setStuId(e.target.value)}
-//                             type="text"
-//                             className={`form-control ${stuIdError && 'is-invalid'}`}
-//                             placeholder="Enter Student ID"
-//                         />
-//                         {stuIdError && <div className="invalid-feedback">{stuIdError}</div>}
-//                     </div>
-//                     <button onClick={GetResultBYExamIdndStuID} className="btn btn-primary" type="submit">
-//                         View
-//                     </button>
-//                 </form>
-
-//                 <table className="table table-striped">
-//                     <thead>
-//                         <tr>
-//                             <th>Exam Id</th>
-//                             <th>Student Id</th>
-//                             <th>Subject Id</th>
-//                             <th>Mark</th>
-//                         </tr>
-//                     </thead>
-//                     <tbody>
-//                         {mark.map((item, index) => (
-//                             <tr key={index}>
-//                                 <td>{item.examId}</td>
-//                                 <td>{item.studentId}</td>
-//                                 <td>{item.subjectId}</td>
-//                                 <td>{item.marks}</td>
-//                             </tr>
-//                         ))}
-//                     </tbody>
-//                 </table>
-//             </div>
-//             <button onClick={GetAllResults} type="button" className="btn btn-outline-primary">
-//                 Get all
-//             </button>
-//         </div>
-//     );
-// }

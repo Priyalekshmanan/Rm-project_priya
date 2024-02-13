@@ -28,7 +28,7 @@ export default function AddResult() {
         if (!subjectId.trim()) {
             errors.subjectId = "Subject Id is required";
         }
-        if (!mark.trim()) {
+        if (!mark) {
             errors.mark = "Mark is required";
         }
 
@@ -84,10 +84,23 @@ export default function AddResult() {
                     </div>
                 </div>
                 <div className="mb-3 row">
-                    <label htmlFor="examId" className="col-sm-2 col-form-label">Semester:</label>
+                <td>
+                  <select className="form-control form-control-lg" value={semester} onChange={e => setSemester( e.target.value )} >
+                    <option value="">Semester</option>
+                    <option value="Sem 1">Sem1</option>
+                    <option value="Sem 2">Sem2 </option>
+                    <option value="Sem 3">Sem3</option>
+                    <option value="Sem 4">Sem4</option>
+                    <option value="Sem 5">Sem5</option>
+                    <option value="Sem 6">Sem6 </option>
+                    <option value="Sem 7">Sem7</option>
+                    <option value="Sem 8">Sem8</option>
+                  </select>
+                  {errors.semester && <span className="error">{errors.semester}</span>}
+                  </td>
                     <div className="col-sm-10">
-                        <input type="text" className="form-control" id="examId" value={semester} onChange={(e) => setSemester(e.target.value)} />
-                        {/* {errors.examId && <div className="text-danger">{errors.examId}</div>} */}
+                        {/* <input type="text" className="form-control" id="examId" value={semester} onChange={(e) => setSemester(e.target.value)} /> */}
+                        {errors.examId && <div className="text-danger">{errors.examId}</div>}
                     </div>
                 </div>
                 <div className="mb-3 row">

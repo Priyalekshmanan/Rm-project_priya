@@ -29,7 +29,7 @@ import ViewAttendences from './Tattendences/ViewAttendences';
 import ViewTeachers from './Admin/ViewTeachers';
 import StudRegister from './Admin/StudRegister';
 import ViewStudents from './Admin/ViewStudents'
-import DisplayTAttendenceReport from './Attandance/DisplayTAttendenceReport';
+import DisplayTAttendenceReport from './Tattendences/DisplayTAttendenceReport';
 import TeacherAttendance from './Tattendences/TeacherAttendance';
 import UserReg from './User/UserReg'
 import GetAllUser from './User/GetAllUser'
@@ -37,6 +37,14 @@ import DeleteUser from './User/DeleteUser'
 import ClassAssign from './Class/ClassAssign'
 import ClassOperation from './Class/ClassOperation'
 import GetAllExam from "./Exam/GetAllExam"
+import EditTeacherAttendance from './Tattendences/EditTeacherAttendance';
+import PassRec from './password_recovery/PassRec'
+import ForgetPass from './password_recovery/ForgetPass'
+import NewPassword from './password_recovery/NewPassword'
+import EditStudentAttendance from './SAttendance/EditStudentAttendance';
+import NotificationForm from './Notification/Notification';
+import StudentNotification from './Notification/StudentNotification';
+import TeacherNotification from './Notification/TeacherNotification';
 
 function App() {
   return (
@@ -49,6 +57,9 @@ function App() {
             <Route index element={<Home />} />   
           </Route>
           <Route path="login" element={<Login />} />
+          <Route path="login/password-recovery" element={<PassRec />} />
+          <Route path="forgot-pass" element={< ForgetPass/>} />
+          <Route path="change-password" element={< NewPassword/>} />
           <Route path="Admin-Dashboard" element={<AdminDashboard />}>
             <Route path="schedule-exam" element={<ExamSch/>} />
             <Route path="admin-profile" element={<Profile/>} />
@@ -67,6 +78,10 @@ function App() {
             <Route path='assign-classes' element={<ClassAssign/>}/>
             <Route path='classes-opera' element={<ClassOperation/>}/>
             <Route path='view-exams' element={<GetAllExam/>}/>
+           <Route path='editteacher-attendance' element={<EditTeacherAttendance/>}/>
+           <Route path='display-tattendance' element={<DisplayTAttendenceReport/>}/>
+           <Route path='add-notification' element={<NotificationForm/>}/>
+           {/* <Route path='editstu-attendance' element={<EditStudentAttendance/>}/> */}
 
 
           </Route>
@@ -82,6 +97,7 @@ function App() {
             <Route path="exam-report" element={<ResultReportStudent/>}/>
             <Route path="attendance-report" element={<DislaySAttandanceById/>}/>
             <Route path="view-attendance" element={<ViewStuAttendanceById/>}/>
+            <Route path="notification" element={<StudentNotification/>}/>
           </Route>
 
           <Route path="teacher-dashboard" element={<TeacherDashboard />}>
@@ -90,13 +106,14 @@ function App() {
             <Route path='view-result' element={<ViewResult/>}/>
             <Route path='add-result' element={<AddResult/>}/>
             <Route path='student-attendance' element={<AddStdAttrendance/>}/>
-              <Route index element={<AddStdAttrendance/>}/>
-              <Route path='student-attendance/view-all-student-attendance' element={<GetallStudentAttendance/>}/>
-              <Route path='student-attendance/all-student-attendance-record' element={<DisplayallStudentAttandance/>}/>
-              <Route path='student-attendance/student-attendance-record-by-id' element={<DisplaySAttandanceByIdForTeacher/>}/>
-
-
-            <Route/>
+            <Route path='view-attendances' element={<ViewAttendences/>}/>
+            <Route path="edit-attendance" element={<EditStudentAttendance/>}/>
+            <Route path="notification" element={<TeacherNotification/>}/>
+            <Route index element={<AddStdAttrendance/>}/>
+            <Route path='student-attendance/view-all-student-attendance' element={<GetallStudentAttendance/>}/>
+            <Route path='student-attendance/all-student-attendance-record' element={<DisplayallStudentAttandance/>}/>
+            <Route path='student-attendance/student-attendance-record-by-id' element={<DisplaySAttandanceByIdForTeacher/>}/>
+          <Route/>
 
 
 
