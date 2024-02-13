@@ -1,0 +1,1522 @@
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\appsettings.Development.json
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\appsettings.json
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Nexu SMS.exe
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Nexu SMS.deps.json
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Nexu SMS.runtimeconfig.json
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Nexu SMS.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Nexu SMS.pdb
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Azure.Core.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Azure.Identity.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Humanizer.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ceesharp\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.AssemblyReference.cache
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\Nexu SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfoInputs.cache
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfo.cs
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CoreCompileInputs.cache
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cs
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cache
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.Nexu SMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexu SMS.props
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexu SMS.props
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexu SMS.props
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\scopedcss\bundle\Nexu SMS.styles.css
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CopyComplete
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\Nexu SMS.dll
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\refint\Nexu SMS.dll
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\Nexu SMS.pdb
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\Nexu SMS.genruntimeconfig.cache
+C:\ceesharp\Nexu SMS\obj\Debug\net8.0\ref\Nexu SMS.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\appsettings.Development.json
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\appsettings.json
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.exe
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.deps.json
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.runtimeconfig.json
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.pdb
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Azure.Core.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Azure.Identity.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Humanizer.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.CodeDom.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Memory.Data.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.AssemblyReference.cache
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfoInputs.cache
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfo.cs
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CoreCompileInputs.cache
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cs
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cache
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.sourcelink.json
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets.build.json
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets.development.json
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.Nexu SMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexu SMS.props
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexu SMS.props
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexu SMS.props
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets.pack.json
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\scopedcss\bundle\Nexu SMS.styles.css
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CopyComplete
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\refint\Nexu SMS.dll
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.pdb
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.genruntimeconfig.cache
+D:\dailyhandson\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\ref\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.AssemblyReference.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfoInputs.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfo.cs
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CoreCompileInputs.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.sourcelink.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\refint\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.pdb
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\appsettings.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Nexu SMS.exe
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Nexu SMS.deps.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Nexu SMS.runtimeconfig.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Nexu SMS.pdb
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.Nexu SMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\scopedcss\bundle\Nexu SMS.styles.css
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CopyComplete
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.genruntimeconfig.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\ref\Nexu SMS.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\appsettings.json
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.exe
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.deps.json
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.runtimeconfig.json
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.pdb
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Azure.Core.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Azure.Identity.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Humanizer.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.AssemblyReference.cache
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfoInputs.cache
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfo.cs
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CoreCompileInputs.cache
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.sourcelink.json
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.Nexu SMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexu SMS.props
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexu SMS.props
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexu SMS.props
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\scopedcss\bundle\Nexu SMS.styles.css
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CopyComplete
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\refint\Nexu SMS.dll
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.pdb
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.genruntimeconfig.cache
+C:\Hani files\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\ref\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.AssemblyReference.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfoInputs.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfo.cs
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CoreCompileInputs.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.sourcelink.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\appsettings.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.exe
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.deps.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.runtimeconfig.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.pdb
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.Nexu SMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\scopedcss\bundle\Nexu SMS.styles.css
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CopyComplete
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\refint\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.pdb
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.genruntimeconfig.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\ref\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.AssemblyReference.cache
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfoInputs.cache
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfo.cs
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CoreCompileInputs.cache
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cs
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cache
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.sourcelink.json
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\refint\Nexu SMS.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.pdb
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\appsettings.Development.json
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\appsettings.json
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.exe
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.deps.json
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.runtimeconfig.json
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Nexu SMS.pdb
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\AutoMapper.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Azure.Core.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Azure.Identity.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Humanizer.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.CodeDom.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets.build.json
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets.development.json
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.Nexu SMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexu SMS.props
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexu SMS.props
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexu SMS.props
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\scopedcss\bundle\Nexu SMS.styles.css
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CopyComplete
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\Nexu SMS.genruntimeconfig.cache
+D:\Rm-project_priya\Rm_Project_Hani\Nexu SMS\obj\Debug\net8.0\ref\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\appsettings.json
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Nexu SMS.exe
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Nexu SMS.deps.json
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Nexu SMS.runtimeconfig.json
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Nexu SMS.pdb
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.AssemblyReference.cache
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\Nexu SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfoInputs.cache
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfo.cs
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CoreCompileInputs.cache
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.Nexu SMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\scopedcss\bundle\Nexu SMS.styles.css
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CopyComplete
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\refint\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\Nexu SMS.pdb
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\Nexu SMS.genruntimeconfig.cache
+C:\Users\pmuthamm\Desktop\Final_project\Nexu SMS\obj\Debug\net8.0\ref\Nexu SMS.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\appsettings.json
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Nexu SMS.exe
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Nexu SMS.deps.json
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Nexu SMS.runtimeconfig.json
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Nexu SMS.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Nexu SMS.pdb
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\AutoMapper.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Azure.Core.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Azure.Identity.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Humanizer.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.AssemblyReference.cache
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfoInputs.cache
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfo.cs
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CoreCompileInputs.cache
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.sourcelink.json
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.Nexu SMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexu SMS.props
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexu SMS.props
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexu SMS.props
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\scopedcss\bundle\Nexu SMS.styles.css
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CopyComplete
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\refint\Nexu SMS.dll
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.pdb
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\Nexu SMS.genruntimeconfig.cache
+C:\Usama\Project\pRIYA NEW\Rm-project_priya\Nexu SMS\obj\Debug\net8.0\ref\Nexu SMS.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.AssemblyReference.cache
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfoInputs.cache
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfo.cs
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CoreCompileInputs.cache
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cs
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cache
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.sourcelink.json
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\refint\Nexu SMS.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.pdb
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\appsettings.Development.json
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\appsettings.json
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.exe
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.deps.json
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.runtimeconfig.json
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.pdb
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\AutoMapper.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Azure.Core.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Azure.Identity.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Humanizer.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.Nexu SMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexu SMS.props
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexu SMS.props
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexu SMS.props
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\scopedcss\bundle\Nexu SMS.styles.css
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CopyComplete
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.genruntimeconfig.cache
+C:\ceesharp\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\ref\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\appsettings.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.exe
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.deps.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.runtimeconfig.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.pdb
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.AssemblyReference.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfoInputs.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfo.cs
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CoreCompileInputs.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.sourcelink.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.Nexu SMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\scopedcss\bundle\Nexu SMS.styles.css
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CopyComplete
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\refint\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.pdb
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.genruntimeconfig.cache
+C:\Users\pmuthamm\Desktop\Final_project\Rm_Project_Hani\Nexu SMS\Nexu SMS\obj\Debug\net8.0\ref\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\appsettings.json
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.exe
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.deps.json
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.runtimeconfig.json
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Nexu SMS.pdb
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.AssemblyReference.cache
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfoInputs.cache
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.AssemblyInfo.cs
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CoreCompileInputs.cache
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.Nexu SMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Nexu SMS.props
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\scopedcss\bundle\Nexu SMS.styles.css
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.csproj.CopyComplete
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\refint\Nexu SMS.dll
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.pdb
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\Nexu SMS.genruntimeconfig.cache
+C:\Users\pmuthamm\Desktop\Final_project\bacvu\Nexu SMS\Nexu SMS\obj\Debug\net8.0\ref\Nexu SMS.dll
